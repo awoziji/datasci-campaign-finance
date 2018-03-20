@@ -3,6 +3,7 @@ import { Alert } from 'react-bootstrap/lib';
 import Spinner from 'react-spinkit';
 
 import BarChart from './charts/BarChart';
+import LineChart from './charts/LineChart';
 import Form from './Form';
 import getData from '../api/getData';
 
@@ -56,6 +57,13 @@ class FundingSources extends Component {
                 }
                 {displayChart &&
                     <BarChart data={data}
+                        xKey={'donor'}
+                        yKey={'sum'}
+                        width={800}
+                        height={800}
+                        barColor='steelBlue'
+                    /> &&
+                    <LineChart data={data}
                         xKey={'donor'}
                         yKey={'sum'}
                         width={800}
