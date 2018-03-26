@@ -22,7 +22,7 @@ class LineChart extends Component {
 	const n = 10; // number of data points (check later)
 
         const x = scaleLinear()
-	   // .domain([0, n-1]) 
+	    .domain([0, 100]) 
             .range([0, width]); 
 
         const y = scaleLinear()
@@ -30,14 +30,13 @@ class LineChart extends Component {
             .range([height, 0]);
 			
 	const chartline = line()
-		.x(function(d){return x(d.xKey);})
-		.y(function (d){return y(d.yKey);});
+		.x(function(d){return x(d[xKey]);})
+		.y(function (d){return y(d[yKey]);});
 
-//	x.domain(extent(data, function(d) {return d.xKey; }));
-//	y.domain(extent(data, function(d) {return d.yKey; }));
 
-	x.domain(data.map(d => d[xKey]));
+	//x.domain(extent(data, function(d) {return d[xKey]; }));
         y.domain([0, max(data, d => +d[yKey])]).nice();
+
 		
 	const g = select(this.svg).append('g');
 		
@@ -46,11 +45,16 @@ class LineChart extends Component {
   g.append("g")
  	.attr("transform", `translate(0,${height-margin.bottom})`)
   	.call(axisBottom(x))
-    .select(".domain")
-	.remove();
+    .selectAll('text')
+        .attr('x', 9)
+        .attr('y', 0)
+        .attr('dy', '.35em')
+        .attr('transform', 'rotate(90)')
+        .style('text-anchor', 'start')
 
   // Add the Y Axis
   g.append("g")
+	.attr('transform', `translate(${margin.left},0)`)
 	.call(axisLeft(y))
     .append("text")
 	.attr("fill", "#000")
@@ -62,7 +66,7 @@ class LineChart extends Component {
 
   // Add the valueline path.
   g.append("path")
-    .datum([data])
+    .datum(data)
     .attr("fill", "none")
     .attr("stroke", "steelblue")
     .attr("stroke-linejoin", "round")
@@ -70,6 +74,15 @@ class LineChart extends Component {
     .attr("stroke-width", 1.5)
     .attr("class", "line")
     .attr("d", chartline);
+
+        g.selectAll(".dot")
+	    .data(data)
+	  .enter().append("circle") // Uses the enter().append() method
+	    .attr("class", "dot") // Assign a class for styling
+	    .attr("cx", function(d) { return x(d[xKey]) })
+	    .attr("cy", function(d) { return y(d[yKey]) })
+	    .attr("r", 5);
+
 
    }
     render() {

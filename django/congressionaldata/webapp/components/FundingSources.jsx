@@ -56,19 +56,21 @@ class FundingSources extends Component {
                     />
                 }
                 {displayChart &&
+		    <div>
                     <BarChart data={data}
                         xKey={'donor'}
                         yKey={'sum'}
                         width={800}
                         height={800}
                         barColor='steelBlue'
-                    /> &&
+                    /> 
                     <LineChart data={data}
                         xKey={'donor'}
                         yKey={'sum'}
                         width={800}
                         height={800}
                     />
+		   </div>
                 }
             </div>
         )
