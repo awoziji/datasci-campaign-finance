@@ -69,6 +69,7 @@ class FundingSources extends Component {
                         yKey={'sum'}
                         width={800}
                         height={800}
+			lineColor='steelBlue'
                     />
 		   </div>
                 }

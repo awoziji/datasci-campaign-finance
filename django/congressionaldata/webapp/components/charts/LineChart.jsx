@@ -17,7 +17,7 @@ class LineChart extends Component {
     }
 
     createChart = () => {
-        const { width, height, xKey, yKey, data } = this.props;
+        const { width, height, xKey, yKey, data, lineColor } = this.props;
         const margin = {top: 20, right: 0, bottom: 300, left: 80};
 
         const x = scaleBand() 
@@ -59,7 +59,7 @@ class LineChart extends Component {
 	g.append("path")
    	    .datum(data)
     	    .attr("fill", "none")
-    	    .attr("stroke", "steelblue")
+    	    .attr("stroke", lineColor)
     	    .attr("stroke-linejoin", "round")
     	    .attr("stroke-linecap", "round")
     	    .attr("stroke-width", 1.5)
@@ -68,7 +68,7 @@ class LineChart extends Component {
         g.selectAll(".dot")
 	    .data(data)
 	  .enter().append("circle") // Uses the enter().append() method
-	    .attr("fill", "steelblue")
+	    .attr("fill", lineColor)
 	    .attr("cx", function(d) { return x(d[xKey]) })
 	    .attr("cy", function(d) { return y(d[yKey]) })
 	    .attr("r", 5);
