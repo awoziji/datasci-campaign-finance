@@ -46,6 +46,15 @@ Other Roles Include:
 
 Please go to the [Onboarding](./onboarding) docs to start contributing to this project!
 
+## Project History
+
+| Time        | Milestone | 
+|------------ |------|
+| December 2017 | <ul><li>Project Formulation Problem Statements Created</li><li>Ongoing Team Recruitment</li></ul> | 
+| January 2018 | <ul><li>Two Student Teams from California State University Monterey Bay Join (9 Total Students)</li><li>Problem Statement Refinement</li><li>Set up Postgres DB on Microsoft Azure </li> </ul> |
+| February 2018 | <ul><li>Project Pitch at Code for San Francisco Demo Night</li><li>Mock Dashboards Up on Mode Analytics</li><li>First Strawman Machine Learning Model Predicting Election Results using Campaign Finance Data produced </li><li>Begin Working on Web App</li> </ul> | 
+| March 2018 | <ul><li>Pitched Project at Open Data Day SF</li><li>Improvements in Underlying Data Model</li><li>Begin working on deployment of Web App </li> </ul> |
+
 ## Contributing DSWG Members
 
 **Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
