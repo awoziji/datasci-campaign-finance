@@ -30,7 +30,7 @@ def funding_sources(request, candidate_name, count):
         WHERE recipient_candidate_name LIKE %s
         GROUP BY donor_name
         ORDER BY sum DESC LIMIT %s
-        """, ["%%%s%%" % candidate_name.upper(), str(count)])
+        """, params = (["%%%s%%" % candidate_name.upper(), str(count)]))
     sources = []
     for source in funding_source_query:
         sources.append({
