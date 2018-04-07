@@ -1,6 +1,4 @@
-### Results updated 04.08.2018 are included as to inform current match rate and SQL statements.
-
-> This is the link to Mode Analytics workspace.
+### The current match rate as of 04.08.2018 and a link to Mode Analytics workspace containing the SQL statements.
 
 [https://modeanalytics.com/editor/code_for_san_francisco/reports/d4e007734c45](https://modeanalytics.com/editor/code_for_san_francisco/reports/d4e007734c45)
 
