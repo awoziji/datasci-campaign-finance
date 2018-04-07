@@ -1,4 +1,4 @@
--- Query 5: This produces a list of total number of distinct candidate_name from dicccser_ data.
+-- Query 5: This counts the total number of distinct candidate_name from dicccser_ data.
 -- Results: 225
 
 select count( sub.re_name) as distinct_re_name_dicccser
