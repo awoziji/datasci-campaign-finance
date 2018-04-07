@@ -1,4 +1,4 @@
-### The current match rate as of 04.08.2018 and a link to Mode Analytics workspace containing the SQL statements.
+#### The current match rate as of 04.08.2018 and a link to Mode Analytics workspace verifying the SQL statements.
 
 [https://modeanalytics.com/editor/code_for_san_francisco/reports/d4e007734c45](https://modeanalytics.com/editor/code_for_san_francisco/reports/d4e007734c45)
 
@@ -10,7 +10,7 @@
 
 > 145/225 =  0.644 match rate
 
-### Workspace Abbreviations
+#### Workspace Abbreviations
 
 * trg_analytics.candidate_contributions => tacc_
  
