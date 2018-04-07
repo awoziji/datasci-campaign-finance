@@ -1,10 +1,10 @@
---https://modeanalytics.com/editor/code_for_san_francisco/reports/3335e15a3439
---Q2
---annual contribution for candidate
---scaled lifetime contribution
---total contribution per election cycle
---scaled election cycle contribution
-
+-- https://modeanalytics.com/editor/code_for_san_francisco/reports/3335e15a3439
+-- Query 2
+-- The recipient_candidate_name is entered by the user.
+-- This produces the election cycle the candidate was involved, total candidate contributions 
+-- for that election cycle, normalized lifetime contributions,
+-- and normalized total of contributions for the entire election cycle. 
+-- This helps identify large contributions in an election cycle.
 
 with table_one as ( --total_contribution_per_election_cycle
 
