@@ -1,7 +1,10 @@
 -- This statement merges the tacc_ and dicccser_ tables based on  tacc_election cycle and removes 
 -- all dicccser_  federal election results, produces a table with the candidate_name, total_transaction, 
 -- and a numerical value of either 1(win) or 0(loss) indicating the election outcome.
--- Also, the code for every election cycle is available. 
+-- Also, the code for every election cycle is available.
+
+-- https://modeanalytics.com/editor/code_for_san_francisco/reports/23fa56dfb4eb
+-- Query 1
 
 with candidate_donations as
 (
