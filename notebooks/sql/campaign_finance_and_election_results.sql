@@ -1,6 +1,7 @@
 -- This statement merges the tacc_ and dicccser_ tables based on  tacc_election cycle and removes 
 -- all dicccser_  federal election results, produces a table with the candidate_name, total_transaction, 
 -- and a numerical value of either 1(win) or 0(loss) indicating the election outcome.
+-- Also, the code for every election cycle is available. 
 
 with candidate_donations as
 (
@@ -9,6 +10,7 @@ select
   sum(transaction_amount) as total_transaction
 from trg_analytics.candidate_contributions
 where election_cycle = '2015'
+--where cast(election_cycle as int) >= 2009
 group by recipient_candidate_name
 ),
 
