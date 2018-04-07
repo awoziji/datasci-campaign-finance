@@ -1,5 +1,5 @@
 
--- Query 1: This produces distinct candidate name matches with re_ from tacc_ and dicccser_ data.
+-- Query 1: This counts the distinct candidate name matches with re_ from tacc_ and dicccser_ data.
 -- The election cycle time interval of tacc_ is limited to the dicccser_.
 -- Results: 142
 
