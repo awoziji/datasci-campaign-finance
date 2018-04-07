@@ -1,7 +1,8 @@
---https://modeanalytics.com/editor/code_for_san_francisco/reports/4eb2493a61af
---Q3
-
--- total rows 1502264
+-- https://modeanalytics.com/editor/code_for_san_francisco/reports/4eb2493a61af
+-- Query 3
+-- The goal is to identify empty or null values in each attribute, since it will help us
+-- select key features to execute machine learning algorithms. 
+-- Total rows 1502264.
 
 select
   count(*),
