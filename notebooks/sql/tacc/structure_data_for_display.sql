@@ -1,9 +1,9 @@
 -- https://modeanalytics.com/editor/code_for_san_francisco/reports/0c1e67375474
-
--- Structure data for display
--- Select donor location (zipcode) and candidate office location (district)
--- Sum contributions for flows by donor zip code and office location
-
+-- Query 2
+-- The user enters the candidates ofice.
+-- This returns the election cycle, cnadidate office name, the donor zip, the number of 
+-- contributions from that zip code, total donor contribution, and the average contribution amount.
+-- This shows the flow of money from specific zip codes to a specific office.
 
 with table_c as ( --provides more exact details
 
