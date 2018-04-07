@@ -69,7 +69,16 @@ class FundingSources extends Component {
                         width={800}
                         height={800}
                         barColor='steelBlue'
+			orientation='vertical'
                     /> 
+		    <BarChart data={data}
+			xKey={'donor'} 
+			yKey={'sum'}
+			width={800}
+			height={800}
+			barColor='steelBlue'
+			orientation='horizontal'
+		    />
                     <LineChart data={data}
                         xKey={'donor'}
                         yKey={'sum'}
