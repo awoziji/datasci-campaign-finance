@@ -1,7 +1,9 @@
---https://modeanalytics.com/editor/code_for_san_francisco/reports/c8cb5e40e52e
---candidate's number of loans and amounts per election cycle
---scavenger hunt question #8
---Q1
+-- https://modeanalytics.com/editor/code_for_san_francisco/reports/c8cb5e40e52e
+-- Query 1
+-- This is the solution for scavenger hunt question number eight.
+-- It produces the recipient_candidate_name, election cycle, total loan amount for that election cycle, 
+-- the total number of loans, and the office that recieved the loan.
+-- Query 3 identifies the different types of contributions.
 
 select 
   recipient_candidate_name,
