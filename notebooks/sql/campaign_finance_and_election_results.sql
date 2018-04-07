@@ -5,7 +5,7 @@
 with candidate_donations as
 (
 select
-  regexp_replace(lower(split_part(recipient_candidate_name, ',', 2) || split_part(recipient_candidate_name, ',', 1)), '[^a-z]', '', 'g' as full_name,
+  regexp_replace(lower(split_part(recipient_candidate_name, ',', 2) || split_part(recipient_candidate_name, ',', 1)), '[^a-z]', '', 'g') as full_name,
   sum(transaction_amount) as total_transaction
 from trg_analytics.candidate_contributions
 where election_cycle = '2015'
