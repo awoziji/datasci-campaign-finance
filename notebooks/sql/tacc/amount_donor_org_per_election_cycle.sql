@@ -1,15 +1,20 @@
---
---candidate's donor organization per election_cycle
---
---
---Q1
+-- https://modeanalytics.com/editor/code_for_san_francisco/reports/8ded661edc9a
+-- Query 1
+-- The recipient_candidate_name is selected by the user.
+-- This produces data containing the election cycle, donors organization, 
+-- the number of donations from that organization, the total contribution amount, 
+-- and a scaled amount of the total contribution for the election cycle from that organization.
+-- Although, the donor organization is category. 
+-- Query 4 identifies them and there is an empty string to be delat with too.
+-- OFF, OTH, IND, COM, RCP, PTY, SCC
+
 
 with table_twelve as (
  select
     recipient_candidate_name,
     election_cycle,
     --donor_industry,
-    --count(donor_industry), - returns a numeric value( industry code )
+    --count(donor_industry), -- returns a numeric value( industry code )
     donor_organization,
     count(donor_organization) as num_donor_org,
     sum(transaction_amount) as trans_donor_org
