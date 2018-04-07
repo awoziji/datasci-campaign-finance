@@ -1,8 +1,8 @@
 -- https://modeanalytics.com/editor/code_for_san_francisco/reports/b55118c60f67
 -- Query 2
 -- The user enters the recipient_candidate_name. 
--- This returns all information with a negative contribution amount as 
--- it may be useful to observe when the 'refund' occurs or the donor name.
+-- This returns the election cycle, number of refunds, total refunded amount, total 
+-- contributions and a scaled amount demonstrating the impact on the total contributions.
 
 with table_a as (
 
