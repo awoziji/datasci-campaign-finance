@@ -1,4 +1,4 @@
--- This counts the distinct candidate_name with no re_ from dicccser_ data.
+-- Query 21: This counts the distinct candidate_name with no re_ from dicccser_ data.
 -- Results: 230
 
 select count( sub.name) as distinct_original_names_dicccser
