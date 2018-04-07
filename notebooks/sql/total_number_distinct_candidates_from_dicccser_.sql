@@ -1,4 +1,5 @@
---results: 336
+-- Query 5: This produces total number of distinct candidate names from dicccser_ data.
+-- Results: 225
 
 select count( sub.re_name) as distinct_re_name_dicccser
 from (
