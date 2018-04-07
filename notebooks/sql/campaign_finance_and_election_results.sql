@@ -5,7 +5,7 @@
 with candidate_donations as
 (
 select
-  regexp_replace(lower(split_part(recipient_candidate_name, ',', 2) || split_part(recipient_candidate_name, ', ', 1)), ' |\.|,|"|-|''|\(|\)', '', 'g') as full_name,
+  regexp_replace(lower(split_part(recipient_candidate_name, ',', 2) || split_part(recipient_candidate_name, ',', 1)), '[^a-z]', '', 'g' as full_name,
   sum(transaction_amount) as total_transaction
 from trg_analytics.candidate_contributions
 where election_cycle = '2015'
@@ -16,7 +16,7 @@ election_results as
 (
 select
   contest_name,
-  regexp_replace(lower(candidate_name), ' |\.|,|"|-|''|\(|\)', '', 'g')  as candidate_name,
+  regexp_replace(lower(split_part(candidate_name, ',', 2) || split_part(candidate_name, ',', 1)), '[^a-z]', '', 'g') as candidate_name,
   vote_total,
   rank() over (partition by contest_name order by vote_total desc) = 1 as is_winner
 from data_ingest.casos__california_candidate_statewide_election_results
