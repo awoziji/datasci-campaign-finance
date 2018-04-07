@@ -1,5 +1,5 @@
 #### Main merge statement. 
-campaign_finance_and_election_results.sql
+* campaign_finance_and_election_results.sql
 
 #### The current match rate as of 04.08.2018 and a link to Mode Analytics workspace verifying the SQL statements.
 
@@ -20,7 +20,7 @@ campaign_finance_and_election_results.sql
 * Query 22 - 1563 distinct recipient_candidate_name with no regular expression.<br>
    distinct_recipient_candidate_name_with_no_re_ from_tacc.sql
 
-> 145/225 =  0.644 match rate
+> 142/225 =  0.631 match rate
 
 #### Workspace Abbreviations
 
