@@ -1,4 +1,4 @@
--- Query 3: This produces a list of distinct recipient_candidate_name with re_ from tacc_ data.
+-- Query 3: This counts the distinct recipient_candidate_name with re_ from tacc_ data.
 -- Results: 1039 
 
 select count(sub. re_name_distinct) as distinct_re_name_tacc
