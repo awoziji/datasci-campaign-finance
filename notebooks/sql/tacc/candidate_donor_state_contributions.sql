@@ -1,30 +1,12 @@
---https://modeanalytics.com/editor/code_for_san_francisco/reports/9b612f447429
---candidate_donor_state_contributions
---q1: candidate donor state source and total transaction
---q2: candidate in-state and out-of-state contributions per election cycle; scaled in state transactions per election cycle;
+-- https://modeanalytics.com/editor/code_for_san_francisco/reports/9b612f447429
+-- Query 2
+-- The recipient_candidate_name is entered by the user.
+-- This displays the candidate, election cycle, number of in-state contributions, total amount of in-state contributions,
+-- the in-state average contribution amount, scaled contribution for in-state, number of out of state contributions,
+-- the total amount out of state contributions, and the average amount out of state  contribution.
 
---Q1
+-- Whew, that wa a mouthful. This will inform users of how much contributions are from in and out out state. 
 
-select 
-  recipient_candidate_name,
-  election_cycle,
-  count(*) as num_contrib,
-  regexp_replace(upper(donor_state), '[^A-Z]', '' , 'g')  as candidate_donor_states,
-  sum(transaction_amount)  as state_transaction,
-        --DECLARE @money money = '125000';
-        --SELECT FORMAT ( @money, 'C', 'en-US'  ) AS MyMoney;
-  sum(transaction_amount) / count(*) as avg_$_per_contribution
-  
-from trg_analytics.candidate_contributions
-where  regexp_replace(upper(donor_state), '[^A-Z]', '' , 'g') in ( 
-    'AK', 'AL', 'AR', 'AZ', 'CA', 'CO', 'CT', 'DC', 'DE', 'FL', 'GA', 'HI', 'IA', 'ID', 'IL', 'IN', 'KS', 'KY', 'LA', 'MA', 'MD', 'ME', 'MI', 'MN', 'MO', 'MS', 'MT', 'NC', 'ND', 'NE', 'NH', 'NJ', 'NM', 'NV', 'NY', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT', 'VA', 'VT', 'WA', 'WI', 'WV', 'WY'
-) 
-  and recipient_candidate_name like '%BROWN, EDMUND G. (JERRY)%'
-group by recipient_candidate_name, election_cycle, candidate_donor_states
-order by election_cycle desc
-
-
---Q2
 
 with table_ten as ( -- candidate in state contributions per election cycle
 
