@@ -16,7 +16,7 @@
 
 * trg_analytics.candidate_contributions => tacc_
  
-* data_ingest.casos__california_candidate_statewide_election_results => dissscer_
+* data_ingest.casos__california_candidate_statewide_election_results => dicccser_
 
 
 
