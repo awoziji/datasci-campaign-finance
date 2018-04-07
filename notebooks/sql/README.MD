@@ -1,5 +1,9 @@
-#### Main merge statement. 
-* campaign_finance_and_election_results.sql
+#### Main merge statement and display.
+
+[https://modeanalytics.com/editor/code_for_san_francisco/reports/23fa56dfb4eb](https://modeanalytics.com/editor/code_for_san_francisco/reports/23fa56dfb4eb)
+
+* Query 1 - Produces candidate_name, contributions, and winner from both tacc_ and dicccser_ data.<br>
+    campaign_finance_and_election_results.sql
 
 #### The current match rate as of 04.08.2018 and a link to Mode Analytics workspace verifying the SQL statements.
 
