@@ -1,7 +1,7 @@
-https://modeanalytics.com/editor/code_for_san_francisco/reports/80fe013bbf32
-
---data_ingest.casos__california_candidate_statewide_election_results
---goal - ID number of missing values in each attribute.
+-- https://modeanalytics.com/editor/code_for_san_francisco/reports/80fe013bbf32
+-- The goal is to identify missing or null values in each attribute, since it will help us
+-- select key features to execute machine learning algorithms. 
+-- This is the data_ingest.casos__california_candidate_statewide_election_results data.
 
 select count(*),
 candidate_name -- 40 empty/null
