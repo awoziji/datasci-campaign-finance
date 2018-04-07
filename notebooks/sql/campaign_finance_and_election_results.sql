@@ -1,5 +1,5 @@
 -- This statement merges the tacc_ and dicccser_ tables based on  tacc_election cycle and removes 
--- all dicccser_  federal results, produces a table with the candidate_name, total_transaction, 
+-- all dicccser_  federal election results, produces a table with the candidate_name, total_transaction, 
 -- and a numerical value of either 1(win) or 0(loss) indicating the election outcome.
 
 with candidate_donations as
