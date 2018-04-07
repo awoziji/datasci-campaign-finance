@@ -11,7 +11,7 @@ campaign_finance_and_election_results.sql
 * Query 3 -  1550 recipient_candidate_name with regular expression.
    distinct_recipient_candidate_name_with_re_from_tacc.sql
 
-* Query 5 -  225 candidate_names with regular expression. 
+* Query 5 -  225 candidate_names with regular expression.
    total_number_distinct_candidates_from_dicccser.sql
 
 * Query 21 - 230 distinct candidate_name with no regular expression.
