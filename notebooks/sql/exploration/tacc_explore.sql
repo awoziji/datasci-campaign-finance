@@ -1,8 +1,8 @@
---https://modeanalytics.com/editor/code_for_san_francisco/reports/4eb2493a61af
-
---  Q1
-
--- 10 columns out of 27 have no data
+-- https://modeanalytics.com/editor/code_for_san_francisco/reports/4eb2493a61af
+-- Query 1
+-- The goal is to identify missing or null values in each attribute, since it will help us
+-- select key features to execute machine learning algorithms. 
+-- Findings: 10 columns out of 27 have anomolies.
 
 select
   count(*),
