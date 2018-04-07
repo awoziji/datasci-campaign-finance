@@ -1,7 +1,8 @@
 -- https://modeanalytics.com/editor/code_for_san_francisco/reports/0c1e67375474
---Structure data for display
---Select donor location (zipcode) and candidate office location (district)
---Sum contributions for flows by donor zip code and office location
+
+-- Structure data for display
+-- Select donor location (zipcode) and candidate office location (district)
+-- Sum contributions for flows by donor zip code and office location
 
 
 with table_c as ( --provides more exact details
