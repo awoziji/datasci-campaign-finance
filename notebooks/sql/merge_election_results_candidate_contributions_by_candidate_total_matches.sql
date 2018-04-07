@@ -1,4 +1,4 @@
--- This produces a list of distinct candidate names, matched with regular expression from tacc_ and dicccser_ data. 
+-- This counts the distinct candidate names with re_ from tacc_ and dicccser_ data. 
 -- Results: 169
 
 with table_one as
