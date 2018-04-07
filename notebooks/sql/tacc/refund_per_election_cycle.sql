@@ -1,9 +1,9 @@
---https://modeanalytics.com/editor/code_for_san_francisco/reports/b55118c60f67
---candidate refund per election cycle
---include scaled refund trans amount vs total trans amount; 
---refund = negative transaction
+-- https://modeanalytics.com/editor/code_for_san_francisco/reports/b55118c60f67
+-- Query 2
+-- The user enters the recipient_candidate_name. 
+-- This returns all information with a negative contribution amount as 
+-- it may be useful to observe when the 'refund' occurs or the donor name.
 
---Q2
 with table_a as (
 
 select
