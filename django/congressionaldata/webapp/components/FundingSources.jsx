@@ -6,6 +6,7 @@ import BarChart from './charts/BarChart';
 import LineChart from './charts/LineChart';
 import Form from './Form';
 import getData from '../api/getData';
+import mockData from '../mock/data.json';
 
 /**
  * A component that takes a cadidate last name as form input and renders a bar
@@ -38,9 +39,14 @@ class FundingSources extends Component {
     }
 
     render() {
-        const { formError, loading, data } = this.state;
+        const { formError, loading } = this.state;
+        let { data } = this.state;
         // Display chart if form was used and API response was successful.
-        const displayChart = loading !== null && !loading && !formError;
+        let displayChart = loading !== null && !loading && !formError;
+        if (process.env.NODE_ENV === 'dev') {
+            data = mockData;
+            displayChart = true;
+        }
         return (
             <div>
                 <Form
