@@ -61,7 +61,8 @@ application and navigate to the `django/congressionaldata/webapp` directory.
 [here](https://yarnpkg.com/lang/en/docs/install/).
 7. Install dependencies: `yarn install`
 8. Build sources with webpack `yarn build:dev`
-9. Run the development server: `yarn start_web:dev`
+9. Run the development server: `yarn start_web:dev`. To use mock data, set
+`NODE_ENV` to 'dev': `NODE_ENV=dev yarn start_web:dev`
 10. Visit [http://127.0.0.1:8080/](http://127.0.0.1:8080/) in your browser to view the webapp.
 11. You can also explore the API responses at [http://127.0.0.1:8000/api/models/](http://127.0.0.1:8000/api/models/).
 
