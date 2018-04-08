@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/2.0/ref/settings/
 
 import os
 
+print('Loading Settings: %s' % os.getenv('DJANGO_SETTINGS_MODULE'))
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
@@ -24,7 +25,6 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-#SECRET_KEY = os.getenv('CD_SECRET_KEY', 'l&d$l8=3#^o0g1hh1b%#%r+)ap-)mdz9m$j^$2=k247ajpr8ie')
 SECRET_KEY = 'l&d$l8=3#^o0g1hh1b%#%r+)ap-)mdz9m$j^$2=k247ajpr8ie'
 
 # SECURITY WARNING: don't run with debug turned on in production!

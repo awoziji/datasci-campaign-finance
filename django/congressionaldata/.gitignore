@@ -2,3 +2,5 @@ secrets
 venv
 lib
 static
+.coverage
+pylint-report.txt

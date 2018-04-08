@@ -21,11 +21,10 @@ CORS_ORIGIN_WHITELIST = ('localhost:8080', '127.0.0.1:8080')
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': LOCAL_POSTGRES_DATABASE_NAME,
-        'USER': LOCAL_POSTGRES_USER,
-        'PASSWORD': LOCAL_POSTGRES_PASSWORD,
+        'NAME': os.environ['LOCAL_POSTGRES_DATABASE_NAME'],
+        'USER': os.environ['LOCAL_POSTGRES_USER'],
+        'PASSWORD': os.environ['LOCAL_POSTGRES_PASSWORD'],
         'HOST': 'localhost',
         'PORT': '',
     }
 }
-

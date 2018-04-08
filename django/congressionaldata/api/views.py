@@ -38,5 +38,3 @@ def funding_sources(request, candidate_name, count):
             'sum': float(source.sum)
         })
     return HttpResponse(json.dumps(sources))
-
-# more ViewSets or views would go here, depending on what data we need to power the visualization

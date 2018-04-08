@@ -4,7 +4,6 @@
 from django.contrib import admin
 from .models import *
 
-
 @admin.register(CandidateContributions)
 class CandidateContributionsAdmin(admin.ModelAdmin):
     pass
@@ -18,4 +17,3 @@ class StgCandidateContributionsAdmin(admin.ModelAdmin):
 @admin.register(StgCandidateElectionResults)
 class StgCandidateElectionResultsAdmin(admin.ModelAdmin):
     pass
-
