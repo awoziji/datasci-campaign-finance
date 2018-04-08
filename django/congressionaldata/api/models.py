@@ -1,5 +1,6 @@
 from django.db import models
 
+
 # the following models were created by running:
 # python manage.py inspectdb
 # except for comments inline
@@ -105,7 +106,10 @@ class StgCandidateElectionResults(models.Model):
     total_votes_for_all_candidates = models.IntegerField(blank=True, null=True)
     rank_order_of_candidates = models.IntegerField(blank=True, null=True)
     # note needed to change decimal_places from 65535 to 5 otherwise DRF raised an invalid decimal operation error
-    percent_of_votes_received_by_candidate = models.DecimalField(max_digits=65535, decimal_places=5, blank=True, null=True)
+    percent_of_votes_received_by_candidate = models.DecimalField(max_digits=65535,
+                                                                 decimal_places=5,
+                                                                 blank=True,
+                                                                 null=True)
     candidate_election_outcome = models.IntegerField(blank=True, null=True)
     candidate_election_outcome_description = models.TextField(blank=True, null=True)
     mult_county_number_votes_for_candidate = models.IntegerField(blank=True, null=True)

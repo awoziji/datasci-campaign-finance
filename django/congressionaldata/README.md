@@ -2,6 +2,11 @@
 
 Welcome to the Congressional Data Django README file. This is a living breathing document so don't be shy and feel free to contribute documentation!
 
+**Who are you?**
+
+- [Developer](#getting-started)
+- [DevOps](#devops)
+
 ## Getting Started
 This guide will walk you through getting your local environment stood up.
 
@@ -125,9 +130,9 @@ This file contains the settings specific to your local environment. Notice the D
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': LOCAL_POSTGRES_DATABASE_NAME,
-        'USER': LOCAL_POSTGRES_USER,
-        'PASSWORD': LOCAL_POSTGRES_PASSWORD,
+        'NAME': os.environ['LOCAL_POSTGRES_DATABASE_NAME'],
+        'USER': os.environ['LOCAL_POSTGRES_USER'],
+        'PASSWORD': os.environ['LOCAL_POSTGRES_PASSWORD'],
         'HOST': 'localhost',
         'PORT': '',
     }
@@ -139,9 +144,10 @@ Make sure to create the directory and file described below.
 
 This file is ignored by git and contains the actual credentials which will be used to authenticate your local postgres.
 ```python
-LOCAL_POSTGRES_NAME = 'congressionaldata'
-LOCAL_POSTGRES_USER = '<username>'
-LOCAL_POSTGRES_PASSWORD = '<password>'
+import os
+os.environ['LOCAL_POSTGRES_DATABASE_NAME'] = 'congressionaldata'
+os.environ['LOCAL_POSTGRES_USER'] = '<username>'
+os.environ['LOCAL_POSTGRES_PASSWORD'] = '<password>'
 print('Local Secrets Loaded!')
 ```
 It is recommended to contain the print statement at the bottom of your local secrets file for debugging purposes.
@@ -190,3 +196,46 @@ Follow the steps output by this command.
 1. Reread the docs! You may have missed something.
 2. Run brew doctor and follow all the cleanup steps
 3. Check our IDE configuration
+
+
+## DevOps
+
+### CI with Travis
+
+### Secret Injection with Travis
+
+Production secrets such as special keys, tokens, and credentials cannot be stored in the project repository. Travis allows us to encrypt all of our secrets using public key unique to each secret. That secret will only be able to be decrypted using the private key stored on travis.
+
+#### Setup
+
+Before you install the travis cli tool, first make sure that you have updated your Ruby and Gem versions. There are some known issues with the travis cli tool with ruby versions < 2.5
+
+Once you have a recent version of Ruby and Gem, install travis
+
+```bash
+gem install travis -v 1.8.8 --no-rdoc --no-ri
+```
+
+#### Storing Secrets
+
+First thing you need to do is authenticate the travis cli tool so you can have access to your travis account.
+
+```
+travis login
+```
+
+Now that you have installed travis, and authenticated, you can begin storing secrets.
+
+Suppose you want to store the key value pair SOMEVAR="secretvalue"
+
+Travis will generate an RSA keypair exposing the public key at https://api.travis-ci.org/repos/somevar/key. The private key will remain secret known only to travis. The cli tool will use this new public key to encrypt the key value pair. The --add flag will immediately add this encrypted keyvalue pair to the travis.yml file.
+
+
+```bash
+travis encrypt SOMEVAR="secretvalue" --add -r <organization>/<repository>
+```
+
+This will store the encrypted secret on travis
+```bash
+export SOMEVAR="secretvalue"
+```

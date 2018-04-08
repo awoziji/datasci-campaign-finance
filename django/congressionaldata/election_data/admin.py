@@ -7,7 +7,7 @@ from .models import *
 
 @admin.register(Transaction)
 class TransactionAdmin(admin.ModelAdmin):
-    list_display = ('date', 'transaction_type', 'transaction_amount','election_cycle', 'recipient_candidate', 'donor')
+    list_display = ('date', 'transaction_type', 'transaction_amount', 'election_cycle', 'recipient_candidate', 'donor')
 
 
 @admin.register(Candidate)

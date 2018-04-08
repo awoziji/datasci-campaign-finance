@@ -1,5 +1,9 @@
-# datasci-congressional-data
+# datasci-congressional-data [![Build Status](https://travis-ci.org/sfbrigade/datasci-congressional-data.svg?branch=master)](https://travis-ci.org/sfbrigade/datasci-congressional-data) [![Coverage Status](https://coveralls.io/repos/github/sfbrigade/datasci-congressional-data/badge.svg?branch=master)](https://coveralls.io/github/sfbrigade/datasci-congressional-data?branch=master)
+
+*Development Status:* [![Build Status](https://travis-ci.org/sfbrigade/datasci-congressional-data.svg?branch=develop)](https://travis-ci.org/sfbrigade/datasci-congressional-data) [![Coverage Status](https://coveralls.io/repos/github/sfbrigade/datasci-congressional-data/badge.svg?branch=master)](https://coveralls.io/github/sfbrigade/datasci-congressional-data?branch=develop)
+
 This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org) in collaboration with CSUMB Computer Science students who are completing their [capstone project](https://sites.google.com/a/csumb.edu/cst-499-computer-science-capstone-course/mentors-partners).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+
 
 #### -- Project Status: [Kicked Off!]
 
@@ -48,11 +52,11 @@ Please go to the [Onboarding](./onboarding) docs to start contributing to this p
 
 ## Project History
 
-| Time        | Milestone | 
+| Time        | Milestone |
 |------------ |------|
-| December 2017 | <ul><li>Project Formulation Problem Statements Created</li><li>Ongoing Team Recruitment</li></ul> | 
+| December 2017 | <ul><li>Project Formulation Problem Statements Created</li><li>Ongoing Team Recruitment</li></ul> |
 | January 2018 | <ul><li>Two Student Teams from California State University Monterey Bay Join (9 Total Students)</li><li>Problem Statement Refinement</li><li>Set up Postgres DB on Microsoft Azure </li> </ul> |
-| February 2018 | <ul><li>Project Pitch at Code for San Francisco Demo Night</li><li>Mock Dashboards Up on Mode Analytics</li><li>First Strawman Machine Learning Model Predicting Election Results using Campaign Finance Data produced </li><li>Begin Working on Web App</li> </ul> | 
+| February 2018 | <ul><li>Project Pitch at Code for San Francisco Demo Night</li><li>Mock Dashboards Up on Mode Analytics</li><li>First Strawman Machine Learning Model Predicting Election Results using Campaign Finance Data produced </li><li>Begin Working on Web App</li> </ul> |
 | March 2018 | <ul><li>Pitched Project at Open Data Day SF</li><li>Improvements in Underlying Data Model</li><li>Begin working on deployment of Web App </li> </ul> |
 
 ## Contributing DSWG Members
@@ -72,7 +76,7 @@ Please go to the [Onboarding](./onboarding) docs to start contributing to this p
 
 #### Other Members:
 
-|Name     |  Slack Handle   | 
+|Name     |  Slack Handle   |
 |---------|-----------------|
 |[Full Name](https://github.com/[github handle])| @johnDoe        |
 |[Full Name](https://github.com/[github handle]) |     @janeDoe    |
