@@ -12,4 +12,4 @@ Once you've decided that this is an awesome project with wonderful teammates and
 
 | Previous | Next |
 |:---------|-----:|
-| [README](./README.md) | [Development Environment](./02_development_environment.md)) |
+| [README](./README.md) | [Development Environment](./02_development_environment.md) |
