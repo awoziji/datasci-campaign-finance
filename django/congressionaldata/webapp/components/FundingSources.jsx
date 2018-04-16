@@ -4,6 +4,7 @@ import Spinner from 'react-spinkit';
 
 import BarChart from './charts/BarChart';
 import LineChart from './charts/LineChart';
+import ColumnChart from './charts/ColumnChart';
 import Form from './Form';
 import getData from '../api/getData';
 import mockData from '../mock/data.json';
@@ -63,21 +64,19 @@ class FundingSources extends Component {
                 }
                 {displayChart &&
 		    <div>
-                    <BarChart data={data}
+                    <BarChart data={data} // Horizontal Bar Chart
                         xKey={'donor'}
                         yKey={'sum'}
                         width={800}
                         height={800}
                         barColor='steelBlue'
-			orientation='vertical'
                     /> 
-		    <BarChart data={data}
+		    <ColumnChart data={data} // Vertical Bar Chart
 			xKey={'donor'} 
 			yKey={'sum'}
 			width={800}
 			height={800}
 			barColor='steelBlue'
-			orientation='horizontal'
 		    />
                     <LineChart data={data}
                         xKey={'donor'}
