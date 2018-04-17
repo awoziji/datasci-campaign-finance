@@ -6,16 +6,23 @@ import { FormGroup, ControlLabel, FormControl,
  * Generic form input field.
  */
 class Form extends Component {
-    state = { value: '' };
+    constructor() {
+        super();
+        this.state = { value: '' };
+        this.handleKeyPress = this.handleKeyPress.bind(this);
+        this.handleChange = this.handleChange.bind(this);
+    }
 
-    handleKeyPress = (e) => {
+    handleKeyPress(e) {
         if (e.key === 'Enter') {
             this.props.onPressEnter(this.state.value);
             this.setState({ value: '' });
         }
     }
 
-    handleChange = (e) => this.setState({ value: e.target.value });
+    handleChange(e) {
+        this.setState({ value: e.target.value });
+    }
 
     render() {
         const { error, placeholder, controlLabel } = this.props;
@@ -33,6 +40,10 @@ class Form extends Component {
             </FormGroup>
         );
     }
+
+    Form.propTypes = {
+        onPressEnter: PropTypes.func.isRequired,
+    };
 }
 
 export default Form
