@@ -21,15 +21,8 @@ class ColumnChart extends Component {
         const { width, height, xKey, yKey, barColor, data } = this.props;
 	// Append initial group element using a reference to the svg DOM node.
 	const g = select(this.svg).append('g');
-	var maxTextWidth = 0;
 
-	g.select(xKey).selectAll("text").nodes().forEach(function(d) {
-	  //maxTextWidth = max(maxTextWidth, d.getComputedTextLength());
-	  maxTextWidth = max(maxTextWidth, d.getBBox().width);
-	});
-        console.log(maxTextWidth);
-
-	const margin = {top: 20, right: 0, bottom: maxTextWidth, left: 80};
+	const margin = {top: 20, right: 0, bottom: 300, left: 80};
 
 	const x = scaleBand()
 		.range([margin.left, width - margin.right])
