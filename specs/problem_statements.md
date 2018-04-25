@@ -13,7 +13,7 @@ In addition, [MapLight](https://maplight.org/), a non-profit org dedicated to re
     1. For each election cycle/candidate can we show how much each candidate has received from which sources?
     2. Can we show how much was received at a geographic level?
     3. Do outsiders with money have an undue influence?  How much money in campaigns comes from outside a candidate’s district, and what is a good way to display that relationship?
-    4. Is there a good visualization to show which candidates have a lot of grassroots support (many small donations) compared to candidates with small number of wealthy backers?
+    4. Is there a good visualization to show which candidates have a lot of grassroots support (many small donations) compared to candidates with a small number of wealthy backers?
     5. Is there a relationship between having more money and winning elections?  In competitive elections, does the candidate with more money tend to win?
 
 Some prior art from Code for San Francisco (2016 election cycle): https://github.com/sfbrigade/campaign_finance
@@ -61,5 +61,5 @@ In this section, we'll document other people's works around campaign finance tha
 
 ## Some Other Notes
 1. Which districts are contestable? ballotpedia is a potential source
-2. How does campaign finance impact incumbant advantage? Can I be alerted if some out of money can influence the outcome of an advantage?
+2. How does campaign finance impact incumbent advantage? Can I be alerted if some out of money can influence the outcome of an advantage?
 3. Can we predict the probability of a candidate winning based on funding? If so can we build a cool web application that shows amount of money necessary (e.g. kickstarter) to push candidate over 50% of winning?

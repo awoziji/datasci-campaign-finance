@@ -5,9 +5,16 @@
 The Django project resides in the [django/congressionaldata](../django/congressionaldata) folder of the repository.  It contains two Django apps:
 
 * [api](../django/congressionaldata/api) is a JSON API server, which has mappings for the database tables in [models.py](../django/congressionaldata/api/models.py) and uses the Django Rest Framework to power the API (see [views.py](../django/congressionaldata/api/views.py) and [serializers.py](../django/congressionaldata/api/serializers.py)).
-* [webapp](../django/congressionaldata/webapp) is a static webapp that pulls data from the API server and renders a visualization.  It doesn't have any backend models, just a simple [view](../django/congressionaldata/webapp/views.py) and [HTML page](../django/congressionaldata/webapp/templates/webapp/index.html) and soon there'll be a lot of JavaScript.
+* [webapp](../django/congressionaldata/webapp) is a web application using React.js
+and webpack. It pulls data from the API server and renders a visualization. It doesn't have any backend models, just a simple [HTML page](../django/congressionaldata/webapp/index.html) that
+is the entry point for the application.
 
 ## Tutorials
+
+### React
+
+This tutorial is a great way to get started learning React and modern JavaScript
+concepts: http://www.react.express.
 
 ### Django
 
@@ -47,8 +54,17 @@ Django version 2.0.2, using settings 'congressionaldata.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 ```
-5. Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser to view the webapp.
-6. You can also explore the API responses at [http://127.0.0.1:8000/api/models/](http://127.0.0.1:8000/api/models/).
+
+5. Open a different terminal from where the API is running to start the web
+application and navigate to the `django/congressionaldata/webapp` directory.
+6. If Yarn is not already installed, first do so following steps outlined
+[here](https://yarnpkg.com/lang/en/docs/install/).
+7. Install dependencies: `yarn install`
+8. Build sources with webpack `yarn build:dev`
+9. Run the development server: `yarn start_web:dev`. To use mock data, set
+`NODE_ENV` to 'dev': `NODE_ENV=dev yarn start_web:dev`
+10. Visit [http://127.0.0.1:8080/](http://127.0.0.1:8080/) in your browser to view the webapp.
+11. You can also explore the API responses at [http://127.0.0.1:8000/api/models/](http://127.0.0.1:8000/api/models/).
 
 
 

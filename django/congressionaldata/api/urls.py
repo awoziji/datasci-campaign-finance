@@ -9,4 +9,6 @@ router.register(r'candidate_contributions', views.CandidateContributionsViewSet,
 
 urlpatterns = [
     path('models/', include(router.urls)),
+    path('funding/sources/<str:candidate_name>/<int:count>',
+         views.funding_sources, name='funding_sources'),
 ]

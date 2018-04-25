@@ -16,13 +16,13 @@ Also note that Option 2 (using the pipeline_runner) is mostly documented in this
 ### Dumping the Production Database
 The general command is
 ```
-pg_dump -d postgres --host=hostname --username=username --port=5432 > pg_dump_output.sql
+pg_dump -d datascicongressionaldata --host=hostname --username=username --port=5432 > pg_dump_output.sql
 ```
 
 In our case, it will look like:
 
 ```
-pg_dump -d postgres --host=c4sf-sba.postgres.database.azure.com --username=datascicongressionaldata@c4sf-sba --port=5432 > pg_dump_output.sql
+pg_dump -d datascicongressionaldata --host=c4sf-sba.postgres.database.azure.com --username=datascicongressionaldata@c4sf-sba --port=5432 > pg_dump_output.sql
 ```
 
 You will then be prompted for the password. If you need the appropriate DB creds, please message us on Slack!

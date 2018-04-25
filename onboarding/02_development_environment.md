@@ -5,6 +5,12 @@ The instructions here mostly assume that you are working in a "Linux-like" envir
 
 If you're on a Windows, we highly recommend using [Bash on ubuntu on Windows](https://msdn.microsoft.com/en-us/commandline/wsl/about) which provides a Linux environment without needing to spin up an entire Linux virtual machine! (This will only work on Windows 10, if you're on a earlier version, we highly recommend upgrading to the latest version of Windows 10.) To install, follow the [installation guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10). I also think working in a unix-like environment is great experience, especially in the tech world.
 
+**Setting up Ubuntu on Windows**
+1. Run powershell as Administrator.
+2. In powershell run command: ```Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux```
+3. Download/Install Ubuntu from the [windows store](https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6?rtc=1) 
+
+**Steps for Environment Setup**
 The following things to be done in order are:
 
 1. Installing Python via Anaconda
@@ -19,6 +25,16 @@ We use Anaconda
 https://www.continuum.io/downloads
 
 You should download the Python 3 version.
+
+In **Windows** you will need to install Anaconda on Ubuntu after downloading:
+1. Type ```pwd``` to view your path. It should be similar to: ``` /home/<username>```
+2. Now type ```cd ../..```, and then ```ls```
+    - You should see: ```bin  boot  dev  etc  home  init  lib  lib64  media  mnt  opt  proc  root  run  sbin  snap  srv  sys  tmp  usr  var```
+3. Now type ```cd mnt/c```
+    - If you do ```ls``` again, you will see the folders/files of your normal windows system.
+4. From there, navigate to the folder that you downloaded Anaconda from.
+5. Now type ```bash Anaconda....sh```
+    - With ```Anaconda....sh``` being the anaconda downloaded file name
 
 ## Clone the Repository
 Before cloning the repository, as an optional component, you can install Git Large File Storage. [Git Large File Storage](https://git-lfs.github.com/) is an open source Git extension for versioning large files. This can be a useful tool for storing large files using Git and for the time being we will be downloading and storing somewhat large source data files in our repository which we then will upload into our database. However, this is optional, if you won't be working directly with our ETL processing and processing raw files, you don't necessarily need to worry about this part.
@@ -62,7 +78,7 @@ git clone git@github.com:sfbrigade/datasci-congressional-data.git
 ## Setting Up Python Environment
 Once you've installed Anaconda's distribution of Python, to clone and activate the appropriate python environment:
 
-1. First `cd` into the root directory
+1. First, make sure in your terminal you are in the root directory of this git repository.
 2. `conda env create -f environment.yml`
     1. This clones the appropriate python environment which should be named `datasci-congressional-data`.
     2. See https://conda.io/docs/using/envs.html#use-environment-from-file for more information.
@@ -75,6 +91,13 @@ Once you've installed Anaconda's distribution of Python, to clone and activate t
 For further information, here is a useful guide to conda environments: https://conda.io/docs/using/envs.html.
 
 Note, the [environment.yml](../environment.yml) file must be kept up to date and is how we will ensure that every group member is on the same environment so any work we do on any machine is reproducible on any other machine.
+
+If you have acitvated your python environment and recieve the following error, you may need to update your python environment using `conda env update -f environment.yml`as described above:<br>
+```
+ImportError: Couldn't import Django. 
+Are you sure it's installed and available on you PYTHONPATH environment variable?
+Did you forget to activate a virtual environment?
+```
 
 ## Connecting to our database
 In your `~/.bash_profile` you need to set up environment variables corresponding to the database credentials. Note that if you are using Windows/Ubuntu, you might not have a `~/.bash_profile`, instead you should add the following to your `~/.bashrc` file. Slack the #datasci-congressdata group for the appropriate credentials
@@ -92,6 +115,14 @@ echo "YOUR TEXT HERE" >> ~/.bash_profile
 
 ### For Mac
 The easy way to install Postgres locally if you have a Mac is to use Postgres.app: https://postgresapp.com and just click the download button.
+
+After installing Postgres.app, you will need to update your PATH. Add the following to your `~/.bash_profile`.
+
+```
+export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
+```
+
+Be sure to restart your terminal before testing `psql` command.
 
 ### For Windows/Ubuntu
 Installing Postgres via Windows/Ubuntu is a bit harder. The instructions below are actually sourced from this [blog post](https://medium.com/@colinrubbert/installing-ruby-on-rails-in-windows-10-w-bash-postgresql-e48e55954fbf).
@@ -133,6 +164,13 @@ At this point you should have also created an alias and an environment variable 
 export CD_DWH='DB CREDS'
 
 alias datascicongressionaldatadbwpass='psql "DB CREDS"'
+```
+
+Execute the content of your file `~/.bash_profile` or `~/.bashrc` to reflect
+your new changes. For example:
+
+```
+source ~/.bash_profile
 ```
 
 Instead of 'DB CREDS' above you should have the actual DB creds which are private, so if you don't have access to those you should ping the #datasci-congressdata Slack channel **and make sure you don't upload them to a public place like GitHub!!**. 

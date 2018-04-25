@@ -118,6 +118,8 @@ And this will re-download all the CSV files appropriately.
 
 - SQL and Python for Data Analyis at Mode Analytics: https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
 
+- Tidy Data (A good guide for our data models): http://vita.had.co.nz/papers/tidy-data.pdf
+
 | Previous | Next |
 |:---------| ----:|
 | [Development Environment](./02_development_environment.md) | [Developing Locally](./04_developing_locally.md)|
