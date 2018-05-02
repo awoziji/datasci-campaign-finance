@@ -29,21 +29,35 @@ https://djangobook.com/advanced-database-management/
 Restart local Django  - Run cmd  as to begin at the command prompt. Change directory(cd)  to the file location and 
 start the localized environment variables with  env_mysite\scripts\activate.
 
-E.g.  C:\Users\philemmons\Desktop\django_project>env_mysite\scripts\activate
+For example:
+<br>
+<code>
+C:\Users\philemmons\Desktop\django_project>env_mysite\scripts\activate</code>
+<code>
+(env_mysite) C:\Users\philemmons\Desktop\django_project></code>
 
-(env_mysite) C:\Users\philemmons\Desktop\django_project>
-
+<br>
 Double check Python is properly installed.
+<br>
 
-(env_mysite) C:\Users\philemmons\Desktop\django_project>python
+<code>
+(env_mysite) C:\Users\philemmons\Desktop\django_project>python</code>
 
-Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 16:07:46) [MSC v.1900 32 bit (Intel)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
->>> import django
->>> django.get_version()
-'2.0'
->>>exit()
+<code>
+Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 16:07:46) [MSC v.1900 32 bit (Intel)] on win32</code>
+<code>
+Type "help", "copyright", "credits" or "license" for more information.</code>
+<code>
+>>> import django</code>
+<code>
+>>> django.get_version()</code>
+<code>
+'2.0'</code>
+<code>
+>>>exit()</code>
 
+
+<br>
 From this point, it is up to you as how far you would like to go. 
 Also, the first three sections of the Django tutorial should help you to familiarize yourself with it. 
 
