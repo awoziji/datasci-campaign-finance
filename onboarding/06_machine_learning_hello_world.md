@@ -8,4 +8,4 @@ The time involved is appropriately 90 minutes including a coffee break and is be
 
 | Previous | Next |
 |:---------|-----:|
-| [Domain Knowledge](./05_domain_knowledge.md) | [Django Tutorial - Windows](./08_django_tutorial_windows.md) | 
+| [Domain Knowledge](./05_domain_knowledge.md) | [Django Tutorial - Windows](./07_django_tutorial_with_windows.md) | 
