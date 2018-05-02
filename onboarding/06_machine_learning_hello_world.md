@@ -8,4 +8,4 @@ The time involved is appropriately 90 minutes including a coffee break and is be
 
 | Previous | Next |
 |:---------|-----:|
-| [Domain Knowledge](./05_domain_knowledge.md) | [Machine Learning – Hello World](./ 06_machine_learning_hello_world.md) | 
+| [Domain Knowledge](./05_domain_knowledge.md) | [Machine Learning – Hello World](./06_machine_learning_hello_world.md) | 
