@@ -26,6 +26,13 @@
 
 > 142/225 =  0.631 match rate
 
+#### Feature Engineering and Client Mock Data Source
+
+[https://modeanalytics.com/editor/code_for_san_francisco/reports/c3783be244d1](https://modeanalytics.com/editor/code_for_san_francisco/reports/c3783be244d1)
+
+* alpha_sql_main - This provides the average campaign contribution per election cycle for every contest name of the candidate from 2010 to 2016 General Election in California as a future source of feature selections when the name matching accuracy increases. Also, it makes available feature selections to be used data model visualizations and supplies the client side a source of mock data as a raw SQL or exported as a csv file. Its current accuracy based on the data is 0.52, contains 130 rows, and has 11 features.
+
+
 #### Workspace Abbreviations
 
 * trg_analytics.candidate_contributions => tacc_
