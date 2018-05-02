@@ -31,33 +31,30 @@ start the localized environment variables with  env_mysite\scripts\activate.
 
 For example:
 <br>
+
 <code>
 C:\Users\philemmons\Desktop\django_project>env_mysite\scripts\activate</code>
 <code>
 (env_mysite) C:\Users\philemmons\Desktop\django_project></code>
-
 <br>
 Double check Python is properly installed.
 <br>
+<code>
+(env_mysite) C:\Users\philemmons\Desktop\django_project>python</code><br><br>
 
 <code>
-(env_mysite) C:\Users\philemmons\Desktop\django_project>python</code>
+Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 16:07:46) [MSC v.1900 32 bit (Intel)] on win32</code><br>
+<code>
+Type "help", "copyright", "credits" or "license" for more information.</code><br>
+<code>
+>>> import django</code><br>
+<code>
+>>> django.get_version()</code><br>
+<code>
+'2.0'</code><br>
+<code>
+>>>exit()</code><br>
 
-<code>
-Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 16:07:46) [MSC v.1900 32 bit (Intel)] on win32</code>
-<code>
-Type "help", "copyright", "credits" or "license" for more information.</code>
-<code>
->>> import django</code>
-<code>
->>> django.get_version()</code>
-<code>
-'2.0'</code>
-<code>
->>>exit()</code>
-
-
-<br>
 From this point, it is up to you as how far you would like to go. 
 Also, the first three sections of the Django tutorial should help you to familiarize yourself with it. 
 
