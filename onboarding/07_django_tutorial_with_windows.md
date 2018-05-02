@@ -37,6 +37,8 @@ C:\Users\philemmons\Desktop\django_project>env_mysite\scripts\activate</code>
 <code>
 (env_mysite) C:\Users\philemmons\Desktop\django_project></code>
 <br>
+
+
 Double check Python is properly installed.
 <br>
 <code>
