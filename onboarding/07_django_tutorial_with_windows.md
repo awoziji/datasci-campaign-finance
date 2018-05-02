@@ -33,16 +33,16 @@ For example:
 <br>
 
 <code>
-C:\Users\philemmons\Desktop\django_project>env_mysite\scripts\activate</code>
+C:\Users\philemmons\Desktop\django_project>env_mysite\scripts\activate</code><br>
 <code>
-(env_mysite) C:\Users\philemmons\Desktop\django_project></code>
-<br>
+(env_mysite) C:\Users\philemmons\Desktop\django_project></code><br><br>
+
 
 
 Double check Python is properly installed.
 <br>
 <code>
-(env_mysite) C:\Users\philemmons\Desktop\django_project>python</code><br><br>
+(env_mysite) C:\Users\philemmons\Desktop\django_project>python</code><br>
 
 <code>
 Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 16:07:46) [MSC v.1900 32 bit (Intel)] on win32</code><br>
