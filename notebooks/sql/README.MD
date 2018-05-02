@@ -32,6 +32,8 @@
 
 * alpha_sql_main - This provides the average campaign contribution per election cycle for every contest name of the candidate from 2010 to 2016 General Election in California as a future source of feature selections when the name matching accuracy increases. Also, it makes available feature selections to be used data model visualizations and supplies the client side a source of mock data as a raw SQL or exported as a csv file. Its current accuracy based on the data is 0.52, contains 130 rows, and has 11 features.
 
+* Query 10 – This is a variation of the alpha_sql_main that includes all the features from both the dicccser and tacc tables. 
+
 
 #### Workspace Abbreviations
 
