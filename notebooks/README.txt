@@ -1,7 +1,7 @@
 
 
 SQL Folder:
-  Inside the SQL folder there is a file for data exploration. This file consists
+  This folder contains a file for data exploration. This file consists
 of various sql queries to help gain knowlodge of the dataset. The candidate
 contributions with election results file is an sql query that was created for
 feature engineering. The output from this sql query can be used for machine
