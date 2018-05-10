@@ -35,6 +35,18 @@ As an optional component to this project, Challenge.gov is currently sponsoring 
 * Pandas, Jupyter
 * Mode Analytics
 
+### Overview
+
+This project broadly decomposes into client/server and data eng/sci tasks:
+
+![project overview](project_overview.png)
+
+[overview diagram source](https://docs.google.com/document/d/1NORbNeboouyEvdN3PTgUAhwUjrLw1bpv7rDJSMgYTMI/edit#heading=h.1c9u8wssp8nk).
+
+We recently extracted the [client/server code into it's own repo](https://github.com/sfbrigade/congressional-data-django) (for cloning efficiency on Travis).
+
+The data eng/sci code is housed in this repo.
+
 ## Needs of this project
 
 - **Project Leads** (from Code for San Francisco): We need project leads that are willing to be a point of contact for the CSUMB students and be an engaging partner in scoping out the problem. We are also considering a "Support Rotation", see proposed schedule below which would consist of a team of project leads from C4SF who will rotate each week on being the mentor.
