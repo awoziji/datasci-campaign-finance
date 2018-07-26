@@ -30,7 +30,8 @@ def load_datasets(dbm, direc):
         dir: Directory where files are
     """
     print('Data SF Campaign Finance Data FPPC Form 460 Schedule A')
-    df = pd.read_csv(os.path.join(direc, 'Campaign_Finance_-_FPPC_Form_460_-_Schedule_A_-_Monetary_Contributions_test.csv'))
+    df = pd.read_csv(os.path.join(direc, 'Campaign_Finance_-_FPPC_Form_460_-_Schedule_A_-_Monetary_Contributions.csv'))
+    df.columns = map(str.lower, df.columns)
 
     print('Writing Data SF Data')
     dbm.write_df_table(
@@ -45,7 +46,7 @@ def main():
     args = get_args()
     dbm = DBManager(db_url=args.db_url)
     git_root_dir = uf.get_git_root(os.path.dirname(__file__))
-    directory = os.path.join(git_root_dir, 'src')
+    directory = os.path.join(git_root_dir, 'src', 'sf')
     load_datasets(dbm, directory)
 
 
