@@ -1,4 +1,4 @@
-# datasci-congressional-data [![Build Status](https://travis-ci.org/sfbrigade/datasci-congressional-data.svg?branch=master)](https://travis-ci.org/sfbrigade/datasci-congressional-data) [![Coverage Status](https://coveralls.io/repos/github/sfbrigade/datasci-congressional-data/badge.svg?branch=master)](https://coveralls.io/github/sfbrigade/datasci-congressional-data?branch=master)
+# Campaign Finance Project [![Build Status](https://travis-ci.org/sfbrigade/datasci-congressional-data.svg?branch=master)](https://travis-ci.org/sfbrigade/datasci-congressional-data) [![Coverage Status](https://coveralls.io/repos/github/sfbrigade/datasci-congressional-data/badge.svg?branch=master)](https://coveralls.io/github/sfbrigade/datasci-congressional-data?branch=master)
 
 *Development Status:* [![Build Status](https://travis-ci.org/sfbrigade/datasci-congressional-data.svg?branch=develop)](https://travis-ci.org/sfbrigade/datasci-congressional-data) [![Coverage Status](https://coveralls.io/repos/github/sfbrigade/datasci-congressional-data/badge.svg?branch=master)](https://coveralls.io/github/sfbrigade/datasci-congressional-data?branch=develop)
 
