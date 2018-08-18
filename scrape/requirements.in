@@ -1,0 +1,7 @@
+-r install_requirements.txt
+pytest
+pytest-cov
+flake8
+flake8-docstrings
+flake8-pep257
+testfixtures
