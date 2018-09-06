@@ -33,6 +33,15 @@ def load_datasets(dbm, direc):
     df = pd.read_csv(os.path.join(direc, 'Campaign_Finance_-_FPPC_Form_460_-_Schedule_A_-_Monetary_Contributions.csv'))
     df.columns = map(str.lower, df.columns)
 
+    # Change Column Types to DateTime
+    df.rpt_date = pd.to_datetime(df.rpt_date)
+    df.from_date = pd.to_datetime(df.from_date)
+    df.thru_date = pd.to_datetime(df.thru_date)
+
+    # Convert money fields to numeric
+    df.tran_amt1 = df.tran_amt1.replace('[\$,]', '', regex=True).astype(float)
+    df.tran_amt2 = df.tran_amt2.replace('[\$,]', '', regex=True).astype(float)
+
     print('Writing Data SF Data')
     dbm.write_df_table(
         df,
