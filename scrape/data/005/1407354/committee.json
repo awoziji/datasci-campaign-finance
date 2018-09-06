@@ -1,1 +1,173 @@
-{"timestamp": "2018-08-18T14:36:02.545690", "late_contributions_made": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [[], []]}, "contributions_made": {"header": ["DATE", "RECIPIENT", "CONTEST", "POSITION", "PAYMENT TYPE", "AMOUNT"], "data": []}, "late_independent_expenditures": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [[], []]}, "expenditures_made": {"header": ["DATE", "PAYEE", "EXPENDITURE CODE", "DESCRIPTION", "AMOUNT"], "data": []}, "contributions_received": {"header": ["NAME OF CONTRIBUTOR", "PAYMENT TYPE", "CITY", "STATE", "ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION DATE", "FILED DATE", "TRANSACTION NUMBER"], "data": [[]]}, "late_and_5k_plus_contributions_received": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [["CALIFORNIA FEDERATION OF TEACHERS COPE PROP/BALLOT COMMITTEE", "BURBANK", "CA / 91505", "1240104", "", "", "          $75,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "08/14/2018", "08/14/2018", "2283050-INC10"], ["SEIU CALIFORNIA STATE COUNCIL POLITICAL COMMITTEE", "SACRAMENTO", "CA / 95814", "1258324", "", "", "       $1,000,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "08/14/2018", "08/14/2018", "2283050-IDT1"], ["CALIFORNIA FEDERATION OF TEACHERS COPE PROP/BALLOT COMMITTEE", "BURBANK", "CA / 91505", "1240104", "", "", "          $15,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "07/11/2018", "07/13/2018", "2264691-INC1"], [], []]}}
+{
+    "timestamp": "2018-09-05T20:14:25.539223", 
+    "late_contributions_made": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [], 
+            []
+        ]
+    }, 
+    "contributions_made": {
+        "header": [
+            "DATE", 
+            "RECIPIENT", 
+            "CONTEST", 
+            "POSITION", 
+            "PAYMENT TYPE", 
+            "AMOUNT"
+        ], 
+        "data": []
+    }, 
+    "late_independent_expenditures": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [], 
+            []
+        ]
+    }, 
+    "expenditures_made": {
+        "header": [
+            "DATE", 
+            "PAYEE", 
+            "EXPENDITURE CODE", 
+            "DESCRIPTION", 
+            "AMOUNT"
+        ], 
+        "data": []
+    }, 
+    "contributions_received": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "PAYMENT TYPE", 
+            "CITY", 
+            "STATE", 
+            "ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION DATE", 
+            "FILED DATE", 
+            "TRANSACTION NUMBER"
+        ], 
+        "data": [
+            []
+        ]
+    }, 
+    "late_and_5k_plus_contributions_received": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [
+                "CALIFORNIA TEACHERS ASSOCIATION ISSUES PAC", 
+                "BURLINGAME", 
+                "CA / 94010", 
+                "880873", 
+                "", 
+                "", 
+                "         $500,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "08/27/2018", 
+                "08/28/2018", 
+                "2287114-INC14"
+            ], 
+            [
+                "CALIFORNIA PROFESSIONAL FIREFIGHTERS BALLOT ISSUES COMMITTEE", 
+                "SACRAMENTO", 
+                "CA / 95814", 
+                "861767", 
+                "", 
+                "", 
+                "          $15,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "08/27/2018", 
+                "08/28/2018", 
+                "2287114-INC13"
+            ], 
+            [
+                "CALIFORNIA FEDERATION OF TEACHERS COPE PROP/BALLOT COMMITTEE", 
+                "BURBANK", 
+                "CA / 91505", 
+                "1240104", 
+                "", 
+                "", 
+                "          $75,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "08/14/2018", 
+                "08/14/2018", 
+                "2283050-INC10"
+            ], 
+            [
+                "SEIU CALIFORNIA STATE COUNCIL POLITICAL COMMITTEE", 
+                "SACRAMENTO", 
+                "CA / 95814", 
+                "1258324", 
+                "", 
+                "", 
+                "       $1,000,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "08/14/2018", 
+                "08/14/2018", 
+                "2283050-IDT1"
+            ], 
+            [
+                "CALIFORNIA FEDERATION OF TEACHERS COPE PROP/BALLOT COMMITTEE", 
+                "BURBANK", 
+                "CA / 91505", 
+                "1240104", 
+                "", 
+                "", 
+                "          $15,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "07/11/2018", 
+                "07/13/2018", 
+                "2264691-INC1"
+            ], 
+            [], 
+            []
+        ]
+    }
+}

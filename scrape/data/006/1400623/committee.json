@@ -1,1 +1,800 @@
-{"timestamp": "2018-08-18T14:36:02.545690", "late_contributions_made": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [["GIVE VOTERS A VOICE - REPRESENTATIVES AND TAXPAYERS AGAINST TAX INCREASES", "SACRAMENTO", "CA / 95814", "1398829", "", "", "          $25,000.00", "LATE CONTRIBUTION MADE", "INITIAL", "04/03/2018", "04/03/2018", "2227571-EXP118"], ["GIVE VOTERS A VOICE - REPRESENTATIVES AND TAXPAYERS AGAINST TAX INCREASES", "SACRAMENTO", "CA / 95814", "1398829", "", "", "          $25,000.00", "LATE CONTRIBUTION MADE", "INITIAL", "01/12/2018", "01/12/2018", "2201595-EXP12"], [], []]}, "contributions_made": {"header": ["DATE", "RECIPIENT", "CONTEST", "POSITION", "PAYMENT TYPE", "AMOUNT"], "data": [["01/12/2018", "GIVE VOTERS A VOICE - REPRESENTATIVES AND TAXPAYERS AGAINST TAX INCREASES", "Give Voters a Voice - AG 17-0033 - Voter Approval for Increases in Gas and Car Tax ", "SUPPORT", "MONETARY", "$25,000.00"], ["04/03/2018", "GIVE VOTERS A VOICE - REPRESENTATIVES AND TAXPAYERS AGAINST TAX INCREASES", "Give Voters a Voice - AG 17-0033 - Voter Approval for Increases in Gas and Car Tax ", "SUPPORT", "MONETARY", "$25,000.00"]]}, "late_independent_expenditures": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [[], []]}, "expenditures_made": {"header": ["DATE", "PAYEE", "EXPENDITURE CODE", "DESCRIPTION", "AMOUNT"], "data": [["01/12/2018", "GIVE VOTERS A VOICE - REPRESENTATIVES AND TAXPAYERS AGAINST TAX INCREASES", "CONTRIBUTION", "", "$25,000.00"], ["04/03/2018", "GIVE VOTERS A VOICE - REPRESENTATIVES AND TAXPAYERS AGAINST TAX INCREASES", "CONTRIBUTION", "", "$25,000.00"], ["02/15/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$1,588.77"], ["05/11/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$1,023.57"], ["01/09/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$742.05"], ["06/11/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$602.82"], ["12/13/2017", "THE MONACO GROUP", "CAMPAIGN LITERATURE AND MAILINGS", "", "$463.58"], ["03/14/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$385.05"], ["05/17/2018", "HOWARD JARVIS TAXPAYERS ASSOCIATION", "POSTAGE, DELIVERY AND MESSENGER SERVICES", "", "$379.57"], ["04/09/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$372.30"], ["04/03/2018", "HOWARD JARVIS TAXPAYERS ASSOCIATION", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$300.00"], ["04/03/2018", "HOWARD JARVIS TAXPAYERS ASSOCIATION", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$300.00"], ["04/02/2018", "HOWARD JARVIS TAXPAYERS ASSOCIATION", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$300.00"], ["02/16/2018", "HOWARD JARVIS TAXPAYERS ASSOCIATION", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$300.00"], ["05/17/2018", "HOWARD JARVIS TAXPAYERS ASSOCIATION", "POSTAGE, DELIVERY AND MESSENGER SERVICES", "", "$166.69"], ["06/28/2018", "HOWARD JARVIS TAXPAYERS ASSOCIATION", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$100.00"], ["01/26/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$60.11"], ["03/14/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$39.24"], ["01/29/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$22.28"], ["01/30/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$17.36"], ["01/31/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$11.61"], ["04/05/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$7.63"], ["02/06/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$5.00"], ["03/19/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$5.00"], ["04/04/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$4.96"], ["02/07/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$4.38"], ["03/21/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$3.93"], ["02/23/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$3.47"], ["02/13/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$2.80"], ["03/26/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$2.75"], ["03/09/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$2.75"], ["04/06/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$2.67"], ["04/10/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$2.08"], ["02/09/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$1.99"], ["04/23/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$1.63"], ["05/02/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$1.63"], ["04/18/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$1.63"], ["01/19/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$0.95"], ["02/01/2018", "EFUNDRAISING CONNECTIONS, LLC", "OFFICE EXPENSES", "", "$0.95"]]}, "contributions_received": {"header": ["NAME OF CONTRIBUTOR", "PAYMENT TYPE", "CITY", "STATE", "ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION DATE", "FILED DATE", "TRANSACTION NUMBER"], "data": [["ANN WANG", "MONETARY", "LOS ANGELES", "CA", "90049", "", "N/A", "HOMEMAKER", "$100.00", "3/14/2018", "5/24/2018", "2236706 - INC105"], ["JAMES DORAN", "MONETARY", "SAN FRANCISCO", "CA", "94114", "", "N/A", "RETIRED", "$100.00", "3/19/2018", "5/24/2018", "2236706 - INC107"], ["WILLIAM MATTHEW DITZHAZY", "MONETARY", "PALMDALE", "CA", "93551", "", "CITY OF PALMDALE", "ATTORNEY", "$100.00", "1/26/2018", "5/24/2018", "2236706 - INC29"], ["GLENDA KIMMERLY", "MONETARY", "SANTA YSABEL", "CA", "92070", "", "VITALITYWEB.COM, INC.", "EMPLOYEE SERVICES MANAGER", "$100.00", "1/26/2018", "5/24/2018", "2236706 - INC30"], ["BEVERLY STAFFORD", "MONETARY", "FALL RIVER MILLS", "CA", "96028", "", "N/A", "RETIRED", "$100.00", "1/26/2018", "5/24/2018", "2236706 - INC31"], ["CHRISTOPHER GALLOWAY", "MONETARY", "DAVIS", "CA", "95616", "", "SELF EMPLOYED - CHRISTOPHER GALLOWAY", "CONTRACTOR", "$500.00", "1/26/2018", "5/24/2018", "2236706 - INC32"], ["IVAN DJURKIN", "MONETARY", "SAN FRANCISCO", "CA", "94115", "", "SELF EMPLOYED - IVAN DJURKIN", "IT CONSULTANT", "$100.00", "1/29/2018", "5/24/2018", "2236706 - INC46"], ["JEAN HEINL", "MONETARY", "PINE GROVE", "CA", "95665", "", "N/A", "RETIRED", "$100.00", "1/30/2018", "5/24/2018", "2236706 - INC57"], ["CHRISTOPHER LARSON", "MONETARY", "BAKERSFIELD", "CA", "93314", "", "RANCHO BBH INC.", "MANAGER", "$100.00", "2/6/2018", "5/24/2018", "2236706 - INC68"], ["NO NEW TAXES, A PROJECT OF THE HOWARD JARVIS TAXPAYERS ASSOCIATION", "MONETARY", "SACRAMENTO", "CA", "95814", "922117", "", "", "$50,000.00", "12/13/2017", "1/30/2018", "2209126 - INC3"], ["NO NEW TAXES, A PROJECT OF THE HOWARD JARVIS TAXPAYERS ASSOCIATION", "NON-MONETARY", "SACRAMENTO", "CA", "95814", "922117", "", "", "$50.00", "12/8/2017", "1/30/2018", "2209126 - NON2"], ["NO NEW TAXES, A PROJECT OF THE HOWARD JARVIS TAXPAYERS ASSOCIATION", "MONETARY", "SACRAMENTO", "CA", "95814", "922117", "", "", "$20,000.00", "4/3/2018", "7/31/2018", "2273963 - INC115"], ["DAVID PAYNE", "MONETARY", "TORRANCE", "CA", "90502", "", "N/A", "RETIRED", "$99.00", "4/4/2018", "7/31/2018", "2273963 - INC119"], ["DAVID PAYNE", "MONETARY", "TORRANCE", "CA", "90502", "", "N/A", "RETIRED", "$12.00", "4/6/2018", "7/31/2018", "2273963 - INC127"], ["DAVID PAYNE", "MONETARY", "TORRANCE", "CA", "90502", "", "N/A", "RETIRED", "$35.00", "4/10/2018", "7/31/2018", "2273963 - INC131"], ["KIRK YERGAT", "MONETARY", "FRESNO", "CA", "93725", "", "SELF EMPLOYED - KIRK YERGAT", "FARMER", "$100.00", "4/20/2018", "7/31/2018", "2273963 - INC136"], []]}, "late_and_5k_plus_contributions_received": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [["CHRISTOPHER LARSON", "BAKERSFIELD", "CA / 93314", "", "RANCHO BBH INC.", "MANAGER", "             $100.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "02/06/2018", "04/03/2018", "2227571-INC68"], ["JEAN HEINL", "PINE GROVE", "CA / 95665", "", "N/A", "RETIRED", "             $100.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/30/2018", "04/03/2018", "2227571-INC57"], ["IVAN DJURKIN", "SAN FRANCISCO", "CA / 94115", "", "SELF EMPLOYED - IVAN DJURKIN", "IT CONSULTANT", "             $100.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/29/2018", "04/03/2018", "2227571-INC46"], ["CHRISTOPHER GALLOWAY", "DAVIS", "CA / 95616", "", "SELF EMPLOYED - CHRISTOPHER GALLOWAY", "CONTRACTOR", "             $500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/26/2018", "04/03/2018", "2227571-INC32"], ["BEVERLY STAFFORD", "FALL RIVER MILLS", "CA / 96028", "", "N/A", "RETIRED", "             $100.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/26/2018", "04/03/2018", "2227571-INC31"], ["GLENDA KIMMERLY", "SANTA YSABEL", "CA / 92070", "", "VITALITYWEB.COM, INC.", "EMPLOYEE SERVICES MANAGER", "             $100.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/26/2018", "04/03/2018", "2227571-INC30"], ["WILLIAM MATTHEW DITZHAZY", "PALMDALE", "CA / 93551", "", "CITY OF PALMDALE", "ATTORNEY", "             $100.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/26/2018", "04/03/2018", "2227571-INC29"], ["NO NEW TAXES, A PROJECT OF THE HOWARD JARVIS TAXPAYERS ASSOCIATION", "SACRAMENTO", "CA / 95814", "922117", "", "", "          $20,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "04/03/2018", "04/03/2018", "2227571-INC115"], ["JAMES DORAN", "SAN FRANCISCO", "CA / 94114", "", "N/A", "RETIRED", "             $100.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "03/19/2018", "04/03/2018", "2227571-INC107"], ["ANN WANG", "LOS ANGELES", "CA / 90049", "", "N/A", "HOMEMAKER", "             $100.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "03/14/2018", "04/03/2018", "2227571-INC105"], ["NO NEW TAXES, A PROJECT OF THE HOWARD JARVIS TAXPAYERS ASSOCIATION", "SACRAMENTO", "CA / 95814", "922117", "", "", "          $50,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "12/13/2017", "12/13/2017", "2198281-INC3"], [], []]}}
+{
+    "timestamp": "2018-09-05T20:14:25.539223", 
+    "late_contributions_made": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [
+                "GIVE VOTERS A VOICE - REPRESENTATIVES AND TAXPAYERS AGAINST TAX INCREASES", 
+                "SACRAMENTO", 
+                "CA / 95814", 
+                "1398829", 
+                "", 
+                "", 
+                "          $25,000.00", 
+                "LATE CONTRIBUTION MADE", 
+                "INITIAL", 
+                "04/03/2018", 
+                "04/03/2018", 
+                "2227571-EXP118"
+            ], 
+            [
+                "GIVE VOTERS A VOICE - REPRESENTATIVES AND TAXPAYERS AGAINST TAX INCREASES", 
+                "SACRAMENTO", 
+                "CA / 95814", 
+                "1398829", 
+                "", 
+                "", 
+                "          $25,000.00", 
+                "LATE CONTRIBUTION MADE", 
+                "INITIAL", 
+                "01/12/2018", 
+                "01/12/2018", 
+                "2201595-EXP12"
+            ], 
+            [], 
+            []
+        ]
+    }, 
+    "contributions_made": {
+        "header": [
+            "DATE", 
+            "RECIPIENT", 
+            "CONTEST", 
+            "POSITION", 
+            "PAYMENT TYPE", 
+            "AMOUNT"
+        ], 
+        "data": [
+            [
+                "01/12/2018", 
+                "GIVE VOTERS A VOICE - REPRESENTATIVES AND TAXPAYERS AGAINST TAX INCREASES", 
+                "Give Voters a Voice - AG 17-0033 - Voter Approval for Increases in Gas and Car Tax ", 
+                "SUPPORT", 
+                "MONETARY", 
+                "$25,000.00"
+            ], 
+            [
+                "04/03/2018", 
+                "GIVE VOTERS A VOICE - REPRESENTATIVES AND TAXPAYERS AGAINST TAX INCREASES", 
+                "Give Voters a Voice - AG 17-0033 - Voter Approval for Increases in Gas and Car Tax ", 
+                "SUPPORT", 
+                "MONETARY", 
+                "$25,000.00"
+            ]
+        ]
+    }, 
+    "late_independent_expenditures": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [], 
+            []
+        ]
+    }, 
+    "expenditures_made": {
+        "header": [
+            "DATE", 
+            "PAYEE", 
+            "EXPENDITURE CODE", 
+            "DESCRIPTION", 
+            "AMOUNT"
+        ], 
+        "data": [
+            [
+                "01/12/2018", 
+                "GIVE VOTERS A VOICE - REPRESENTATIVES AND TAXPAYERS AGAINST TAX INCREASES", 
+                "CONTRIBUTION", 
+                "", 
+                "$25,000.00"
+            ], 
+            [
+                "04/03/2018", 
+                "GIVE VOTERS A VOICE - REPRESENTATIVES AND TAXPAYERS AGAINST TAX INCREASES", 
+                "CONTRIBUTION", 
+                "", 
+                "$25,000.00"
+            ], 
+            [
+                "02/15/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$1,588.77"
+            ], 
+            [
+                "05/11/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$1,023.57"
+            ], 
+            [
+                "01/09/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$742.05"
+            ], 
+            [
+                "06/11/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$602.82"
+            ], 
+            [
+                "12/13/2017", 
+                "THE MONACO GROUP", 
+                "CAMPAIGN LITERATURE AND MAILINGS", 
+                "", 
+                "$463.58"
+            ], 
+            [
+                "03/14/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$385.05"
+            ], 
+            [
+                "05/17/2018", 
+                "HOWARD JARVIS TAXPAYERS ASSOCIATION", 
+                "POSTAGE, DELIVERY AND MESSENGER SERVICES", 
+                "", 
+                "$379.57"
+            ], 
+            [
+                "04/09/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$372.30"
+            ], 
+            [
+                "04/03/2018", 
+                "HOWARD JARVIS TAXPAYERS ASSOCIATION", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$300.00"
+            ], 
+            [
+                "04/03/2018", 
+                "HOWARD JARVIS TAXPAYERS ASSOCIATION", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$300.00"
+            ], 
+            [
+                "04/02/2018", 
+                "HOWARD JARVIS TAXPAYERS ASSOCIATION", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$300.00"
+            ], 
+            [
+                "02/16/2018", 
+                "HOWARD JARVIS TAXPAYERS ASSOCIATION", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$300.00"
+            ], 
+            [
+                "05/17/2018", 
+                "HOWARD JARVIS TAXPAYERS ASSOCIATION", 
+                "POSTAGE, DELIVERY AND MESSENGER SERVICES", 
+                "", 
+                "$166.69"
+            ], 
+            [
+                "06/28/2018", 
+                "HOWARD JARVIS TAXPAYERS ASSOCIATION", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$100.00"
+            ], 
+            [
+                "01/26/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$60.11"
+            ], 
+            [
+                "03/14/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$39.24"
+            ], 
+            [
+                "01/29/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$22.28"
+            ], 
+            [
+                "01/30/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$17.36"
+            ], 
+            [
+                "01/31/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$11.61"
+            ], 
+            [
+                "04/05/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$7.63"
+            ], 
+            [
+                "02/06/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$5.00"
+            ], 
+            [
+                "03/19/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$5.00"
+            ], 
+            [
+                "04/04/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$4.96"
+            ], 
+            [
+                "02/07/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$4.38"
+            ], 
+            [
+                "03/21/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$3.93"
+            ], 
+            [
+                "02/23/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$3.47"
+            ], 
+            [
+                "02/13/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$2.80"
+            ], 
+            [
+                "03/26/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$2.75"
+            ], 
+            [
+                "03/09/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$2.75"
+            ], 
+            [
+                "04/06/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$2.67"
+            ], 
+            [
+                "04/10/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$2.08"
+            ], 
+            [
+                "02/09/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$1.99"
+            ], 
+            [
+                "04/23/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$1.63"
+            ], 
+            [
+                "05/02/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$1.63"
+            ], 
+            [
+                "04/18/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$1.63"
+            ], 
+            [
+                "01/19/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$0.95"
+            ], 
+            [
+                "02/01/2018", 
+                "EFUNDRAISING CONNECTIONS, LLC", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$0.95"
+            ]
+        ]
+    }, 
+    "contributions_received": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "PAYMENT TYPE", 
+            "CITY", 
+            "STATE", 
+            "ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION DATE", 
+            "FILED DATE", 
+            "TRANSACTION NUMBER"
+        ], 
+        "data": [
+            [
+                "NO NEW TAXES, A PROJECT OF THE HOWARD JARVIS TAXPAYERS ASSOCIATION", 
+                "MONETARY", 
+                "SACRAMENTO", 
+                "CA", 
+                "95814", 
+                "922117", 
+                "", 
+                "", 
+                "$20,000.00", 
+                "4/3/2018", 
+                "7/31/2018", 
+                "2273963 - INC115"
+            ], 
+            [
+                "DAVID PAYNE", 
+                "MONETARY", 
+                "TORRANCE", 
+                "CA", 
+                "90502", 
+                "", 
+                "N/A", 
+                "RETIRED", 
+                "$99.00", 
+                "4/4/2018", 
+                "7/31/2018", 
+                "2273963 - INC119"
+            ], 
+            [
+                "DAVID PAYNE", 
+                "MONETARY", 
+                "TORRANCE", 
+                "CA", 
+                "90502", 
+                "", 
+                "N/A", 
+                "RETIRED", 
+                "$12.00", 
+                "4/6/2018", 
+                "7/31/2018", 
+                "2273963 - INC127"
+            ], 
+            [
+                "DAVID PAYNE", 
+                "MONETARY", 
+                "TORRANCE", 
+                "CA", 
+                "90502", 
+                "", 
+                "N/A", 
+                "RETIRED", 
+                "$35.00", 
+                "4/10/2018", 
+                "7/31/2018", 
+                "2273963 - INC131"
+            ], 
+            [
+                "KIRK YERGAT", 
+                "MONETARY", 
+                "FRESNO", 
+                "CA", 
+                "93725", 
+                "", 
+                "SELF EMPLOYED - KIRK YERGAT", 
+                "FARMER", 
+                "$100.00", 
+                "4/20/2018", 
+                "7/31/2018", 
+                "2273963 - INC136"
+            ], 
+            [
+                "ANN WANG", 
+                "MONETARY", 
+                "LOS ANGELES", 
+                "CA", 
+                "90049", 
+                "", 
+                "N/A", 
+                "HOMEMAKER", 
+                "$100.00", 
+                "3/14/2018", 
+                "5/24/2018", 
+                "2236706 - INC105"
+            ], 
+            [
+                "JAMES DORAN", 
+                "MONETARY", 
+                "SAN FRANCISCO", 
+                "CA", 
+                "94114", 
+                "", 
+                "N/A", 
+                "RETIRED", 
+                "$100.00", 
+                "3/19/2018", 
+                "5/24/2018", 
+                "2236706 - INC107"
+            ], 
+            [
+                "WILLIAM MATTHEW DITZHAZY", 
+                "MONETARY", 
+                "PALMDALE", 
+                "CA", 
+                "93551", 
+                "", 
+                "CITY OF PALMDALE", 
+                "ATTORNEY", 
+                "$100.00", 
+                "1/26/2018", 
+                "5/24/2018", 
+                "2236706 - INC29"
+            ], 
+            [
+                "GLENDA KIMMERLY", 
+                "MONETARY", 
+                "SANTA YSABEL", 
+                "CA", 
+                "92070", 
+                "", 
+                "VITALITYWEB.COM, INC.", 
+                "EMPLOYEE SERVICES MANAGER", 
+                "$100.00", 
+                "1/26/2018", 
+                "5/24/2018", 
+                "2236706 - INC30"
+            ], 
+            [
+                "BEVERLY STAFFORD", 
+                "MONETARY", 
+                "FALL RIVER MILLS", 
+                "CA", 
+                "96028", 
+                "", 
+                "N/A", 
+                "RETIRED", 
+                "$100.00", 
+                "1/26/2018", 
+                "5/24/2018", 
+                "2236706 - INC31"
+            ], 
+            [
+                "CHRISTOPHER GALLOWAY", 
+                "MONETARY", 
+                "DAVIS", 
+                "CA", 
+                "95616", 
+                "", 
+                "SELF EMPLOYED - CHRISTOPHER GALLOWAY", 
+                "CONTRACTOR", 
+                "$500.00", 
+                "1/26/2018", 
+                "5/24/2018", 
+                "2236706 - INC32"
+            ], 
+            [
+                "IVAN DJURKIN", 
+                "MONETARY", 
+                "SAN FRANCISCO", 
+                "CA", 
+                "94115", 
+                "", 
+                "SELF EMPLOYED - IVAN DJURKIN", 
+                "IT CONSULTANT", 
+                "$100.00", 
+                "1/29/2018", 
+                "5/24/2018", 
+                "2236706 - INC46"
+            ], 
+            [
+                "JEAN HEINL", 
+                "MONETARY", 
+                "PINE GROVE", 
+                "CA", 
+                "95665", 
+                "", 
+                "N/A", 
+                "RETIRED", 
+                "$100.00", 
+                "1/30/2018", 
+                "5/24/2018", 
+                "2236706 - INC57"
+            ], 
+            [
+                "CHRISTOPHER LARSON", 
+                "MONETARY", 
+                "BAKERSFIELD", 
+                "CA", 
+                "93314", 
+                "", 
+                "RANCHO BBH INC.", 
+                "MANAGER", 
+                "$100.00", 
+                "2/6/2018", 
+                "5/24/2018", 
+                "2236706 - INC68"
+            ], 
+            [
+                "NO NEW TAXES, A PROJECT OF THE HOWARD JARVIS TAXPAYERS ASSOCIATION", 
+                "MONETARY", 
+                "SACRAMENTO", 
+                "CA", 
+                "95814", 
+                "922117", 
+                "", 
+                "", 
+                "$50,000.00", 
+                "12/13/2017", 
+                "1/30/2018", 
+                "2209126 - INC3"
+            ], 
+            [
+                "NO NEW TAXES, A PROJECT OF THE HOWARD JARVIS TAXPAYERS ASSOCIATION", 
+                "NON-MONETARY", 
+                "SACRAMENTO", 
+                "CA", 
+                "95814", 
+                "922117", 
+                "", 
+                "", 
+                "$50.00", 
+                "12/8/2017", 
+                "1/30/2018", 
+                "2209126 - NON2"
+            ], 
+            []
+        ]
+    }, 
+    "late_and_5k_plus_contributions_received": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [
+                "CHRISTOPHER LARSON", 
+                "BAKERSFIELD", 
+                "CA / 93314", 
+                "", 
+                "RANCHO BBH INC.", 
+                "MANAGER", 
+                "             $100.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "02/06/2018", 
+                "04/03/2018", 
+                "2227571-INC68"
+            ], 
+            [
+                "JEAN HEINL", 
+                "PINE GROVE", 
+                "CA / 95665", 
+                "", 
+                "N/A", 
+                "RETIRED", 
+                "             $100.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/30/2018", 
+                "04/03/2018", 
+                "2227571-INC57"
+            ], 
+            [
+                "IVAN DJURKIN", 
+                "SAN FRANCISCO", 
+                "CA / 94115", 
+                "", 
+                "SELF EMPLOYED - IVAN DJURKIN", 
+                "IT CONSULTANT", 
+                "             $100.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/29/2018", 
+                "04/03/2018", 
+                "2227571-INC46"
+            ], 
+            [
+                "CHRISTOPHER GALLOWAY", 
+                "DAVIS", 
+                "CA / 95616", 
+                "", 
+                "SELF EMPLOYED - CHRISTOPHER GALLOWAY", 
+                "CONTRACTOR", 
+                "             $500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/26/2018", 
+                "04/03/2018", 
+                "2227571-INC32"
+            ], 
+            [
+                "BEVERLY STAFFORD", 
+                "FALL RIVER MILLS", 
+                "CA / 96028", 
+                "", 
+                "N/A", 
+                "RETIRED", 
+                "             $100.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/26/2018", 
+                "04/03/2018", 
+                "2227571-INC31"
+            ], 
+            [
+                "GLENDA KIMMERLY", 
+                "SANTA YSABEL", 
+                "CA / 92070", 
+                "", 
+                "VITALITYWEB.COM, INC.", 
+                "EMPLOYEE SERVICES MANAGER", 
+                "             $100.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/26/2018", 
+                "04/03/2018", 
+                "2227571-INC30"
+            ], 
+            [
+                "WILLIAM MATTHEW DITZHAZY", 
+                "PALMDALE", 
+                "CA / 93551", 
+                "", 
+                "CITY OF PALMDALE", 
+                "ATTORNEY", 
+                "             $100.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/26/2018", 
+                "04/03/2018", 
+                "2227571-INC29"
+            ], 
+            [
+                "NO NEW TAXES, A PROJECT OF THE HOWARD JARVIS TAXPAYERS ASSOCIATION", 
+                "SACRAMENTO", 
+                "CA / 95814", 
+                "922117", 
+                "", 
+                "", 
+                "          $20,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "04/03/2018", 
+                "04/03/2018", 
+                "2227571-INC115"
+            ], 
+            [
+                "JAMES DORAN", 
+                "SAN FRANCISCO", 
+                "CA / 94114", 
+                "", 
+                "N/A", 
+                "RETIRED", 
+                "             $100.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "03/19/2018", 
+                "04/03/2018", 
+                "2227571-INC107"
+            ], 
+            [
+                "ANN WANG", 
+                "LOS ANGELES", 
+                "CA / 90049", 
+                "", 
+                "N/A", 
+                "HOMEMAKER", 
+                "             $100.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "03/14/2018", 
+                "04/03/2018", 
+                "2227571-INC105"
+            ], 
+            [
+                "NO NEW TAXES, A PROJECT OF THE HOWARD JARVIS TAXPAYERS ASSOCIATION", 
+                "SACRAMENTO", 
+                "CA / 95814", 
+                "922117", 
+                "", 
+                "", 
+                "          $50,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "12/13/2017", 
+                "12/13/2017", 
+                "2198281-INC3"
+            ], 
+            [], 
+            []
+        ]
+    }
+}

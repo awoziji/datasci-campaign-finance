@@ -1,1 +1,31 @@
-{"timestamp": "2018-08-18T14:36:02.545690", "committees": {"1397965": {"position": "SUPPORT", "link": "/Misc/Redirector.aspx?id=1397965&session=2017", "name": "CALIFORNIANS FOR SAFE DRINKING WATER AND A CLEAN AND RELIABLE WATER SUPPLY IN SUPPORT OF PROPOSITION 3"}, "1280428": {"position": "SUPPORT", "link": "/Misc/Redirector.aspx?id=1280428&session=2017", "name": "AGRICULTURAL AND DAIRY COMMUNITY FOR SAFE DRINKING WATER AND A RELIABLE WATER SUPPLY"}, "1401925": {"position": "SUPPORT", "link": "/Misc/Redirector.aspx?id=1401925&session=2017", "name": "AMERICAN PISTACHIO GROWERS (NON-PROFIT 501 (C) (6) ) , CALIFORNIANS FOR SAFE DRINKING WATER AND A CLEAN AND RELIABLE WATER SUPPLY IN SUPPORT OF PROP 3"}, "1399067": {"position": "SUPPORT", "link": "/Misc/Redirector.aspx?id=1399067&session=2017", "name": "CALIFORNIA WATERFOWL ASSOCIATION FOR SAFE DRINKING WATER AND A CLEAN AND RELIABLE WATER SUPPLY ( NON-PROFIT 501 (C) (3) )"}, "1397882": {"position": "SUPPORT", "link": "/Misc/Redirector.aspx?id=1397882&session=2017", "name": "NORTHERN CALIFORNIA WATER ASSOCIATION FOR A WATER BOND"}}, "prop": "003"}
+{
+    "timestamp": "2018-09-05T20:14:25.539223", 
+    "committees": {
+        "1397965": {
+            "position": "SUPPORT", 
+            "link": "/Misc/Redirector.aspx?id=1397965&session=2017", 
+            "name": "CALIFORNIANS FOR SAFE DRINKING WATER AND A CLEAN AND RELIABLE WATER SUPPLY IN SUPPORT OF PROPOSITION 3"
+        }, 
+        "1280428": {
+            "position": "SUPPORT", 
+            "link": "/Misc/Redirector.aspx?id=1280428&session=2017", 
+            "name": "AGRICULTURAL AND DAIRY COMMUNITY FOR SAFE DRINKING WATER AND A RELIABLE WATER SUPPLY"
+        }, 
+        "1401925": {
+            "position": "SUPPORT", 
+            "link": "/Misc/Redirector.aspx?id=1401925&session=2017", 
+            "name": "AMERICAN PISTACHIO GROWERS (NON-PROFIT 501 (C) (6) ) , CALIFORNIANS FOR SAFE DRINKING WATER AND A CLEAN AND RELIABLE WATER SUPPLY IN SUPPORT OF PROP 3"
+        }, 
+        "1399067": {
+            "position": "SUPPORT", 
+            "link": "/Misc/Redirector.aspx?id=1399067&session=2017", 
+            "name": "CALIFORNIA WATERFOWL ASSOCIATION FOR SAFE DRINKING WATER AND A CLEAN AND RELIABLE WATER SUPPLY ( NON-PROFIT 501 (C) (3) )"
+        }, 
+        "1397882": {
+            "position": "SUPPORT", 
+            "link": "/Misc/Redirector.aspx?id=1397882&session=2017", 
+            "name": "NORTHERN CALIFORNIA WATER ASSOCIATION FOR A WATER BOND"
+        }
+    }, 
+    "prop": "003"
+}

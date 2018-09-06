@@ -1,1 +1,61 @@
-{"timestamp": "2018-08-18T14:36:02.545690", "late_contributions_made": {"header": ["No Late Contributions or Independent Expenditures Found."], "data": []}, "contributions_made": {"header": ["DATE", "RECIPIENT", "CONTEST", "POSITION", "PAYMENT TYPE", "AMOUNT"], "data": []}, "late_independent_expenditures": {"header": ["No Late Contributions or Independent Expenditures Found."], "data": []}, "expenditures_made": {"header": ["DATE", "PAYEE", "EXPENDITURE CODE", "DESCRIPTION", "AMOUNT"], "data": []}, "contributions_received": {"header": ["NAME OF CONTRIBUTOR", "PAYMENT TYPE", "CITY", "STATE", "ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION DATE", "FILED DATE", "TRANSACTION NUMBER"], "data": [[]]}, "late_and_5k_plus_contributions_received": {"header": ["No Late Contributions or Independent Expenditures Found."], "data": []}}
+{
+    "timestamp": "2018-09-05T20:14:25.539223", 
+    "late_contributions_made": {
+        "header": [
+            "No Late Contributions or Independent Expenditures Found."
+        ], 
+        "data": []
+    }, 
+    "contributions_made": {
+        "header": [
+            "DATE", 
+            "RECIPIENT", 
+            "CONTEST", 
+            "POSITION", 
+            "PAYMENT TYPE", 
+            "AMOUNT"
+        ], 
+        "data": []
+    }, 
+    "late_independent_expenditures": {
+        "header": [
+            "No Late Contributions or Independent Expenditures Found."
+        ], 
+        "data": []
+    }, 
+    "expenditures_made": {
+        "header": [
+            "DATE", 
+            "PAYEE", 
+            "EXPENDITURE CODE", 
+            "DESCRIPTION", 
+            "AMOUNT"
+        ], 
+        "data": []
+    }, 
+    "contributions_received": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "PAYMENT TYPE", 
+            "CITY", 
+            "STATE", 
+            "ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION DATE", 
+            "FILED DATE", 
+            "TRANSACTION NUMBER"
+        ], 
+        "data": [
+            []
+        ]
+    }, 
+    "late_and_5k_plus_contributions_received": {
+        "header": [
+            "No Late Contributions or Independent Expenditures Found."
+        ], 
+        "data": []
+    }
+}

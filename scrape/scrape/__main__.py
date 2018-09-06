@@ -80,7 +80,7 @@ class Scrape(object):
         }
 
         with open(os.path.join(self._data_dir, 'measures.json'), 'w') as f:
-            f.write(json.dumps(self.measures))
+            f.write(json.dumps(self.measures, indent=4))
 
 
 
@@ -120,7 +120,7 @@ class Scrape(object):
         mkdir(prop_dir)
 
         with open(os.path.join(prop_dir, 'prop.json'), 'w') as f:
-            f.write(json.dumps(data))
+            f.write(json.dumps(data, indent=4))
 
         self.props.append(data)
         return data
@@ -204,7 +204,7 @@ class Scrape(object):
             time.sleep(THROTTLE_TIME)
 
         with open(os.path.join(committee_dir, 'committee.json'), 'w') as f:
-            f.write(json.dumps(data))
+            f.write(json.dumps(data, indent=4))
 
 
 

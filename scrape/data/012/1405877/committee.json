@@ -1,1 +1,195 @@
-{"timestamp": "2018-08-18T14:36:02.545690", "late_contributions_made": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [[], []]}, "contributions_made": {"header": ["DATE", "RECIPIENT", "CONTEST", "POSITION", "PAYMENT TYPE", "AMOUNT"], "data": []}, "late_independent_expenditures": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [[], []]}, "expenditures_made": {"header": ["DATE", "PAYEE", "EXPENDITURE CODE", "DESCRIPTION", "AMOUNT"], "data": [["", "CTS MEDIA, CTS", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$4,950.00"], ["", "CTS MEDIA", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$1,575.00"], ["", "LAW OFFICES OF LOWELL FINLEY, LOWELL", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$1,020.21"]]}, "contributions_received": {"header": ["NAME OF CONTRIBUTOR", "PAYMENT TYPE", "CITY", "STATE", "ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION DATE", "FILED DATE", "TRANSACTION NUMBER"], "data": [["HUMANE FARMING ACTION FUND", "MONETARY", "SAN RAFAEL", "CA", "94912", "", "", "", "$500.00", "4/18/2018", "7/31/2018", "2273437 - 3"], ["HUMANE FARMING ACTION FUND", "MONETARY", "SAN RAFAEL", "CA", "94912", "", "", "", "$400,000.00", "5/2/2018", "7/31/2018", "2273437 - 4"], ["HUMANE FARMING ACTION FUND", "MONETARY", "SAN RAFAEL", "CA", "94912", "", "", "", "$150,000.00", "5/10/2018", "7/31/2018", "2273437 - 5"], []]}, "late_and_5k_plus_contributions_received": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [["HUMANE FARMING ACTION FUND", "SAN RAFAEL", "CA / 94912", "", "", "", "         $150,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "05/10/2018", "05/14/2018", "2249094-2"], ["HUMANE FARMING ACTION FUND", "SAN RAFAEL", "CA / 94912", "", "", "", "         $400,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "05/02/2018", "05/14/2018", "2249094-1"], [], []]}}
+{
+    "timestamp": "2018-09-05T20:14:25.539223", 
+    "late_contributions_made": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [], 
+            []
+        ]
+    }, 
+    "contributions_made": {
+        "header": [
+            "DATE", 
+            "RECIPIENT", 
+            "CONTEST", 
+            "POSITION", 
+            "PAYMENT TYPE", 
+            "AMOUNT"
+        ], 
+        "data": []
+    }, 
+    "late_independent_expenditures": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [], 
+            []
+        ]
+    }, 
+    "expenditures_made": {
+        "header": [
+            "DATE", 
+            "PAYEE", 
+            "EXPENDITURE CODE", 
+            "DESCRIPTION", 
+            "AMOUNT"
+        ], 
+        "data": [
+            [
+                "", 
+                "CTS MEDIA, CTS", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$4,950.00"
+            ], 
+            [
+                "", 
+                "CTS MEDIA", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$1,575.00"
+            ], 
+            [
+                "", 
+                "LAW OFFICES OF LOWELL FINLEY, LOWELL", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$1,020.21"
+            ]
+        ]
+    }, 
+    "contributions_received": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "PAYMENT TYPE", 
+            "CITY", 
+            "STATE", 
+            "ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION DATE", 
+            "FILED DATE", 
+            "TRANSACTION NUMBER"
+        ], 
+        "data": [
+            [
+                "HUMANE FARMING ACTION FUND", 
+                "MONETARY", 
+                "SAN RAFAEL", 
+                "CA", 
+                "94912", 
+                "", 
+                "", 
+                "", 
+                "$500.00", 
+                "4/18/2018", 
+                "7/31/2018", 
+                "2273437 - 3"
+            ], 
+            [
+                "HUMANE FARMING ACTION FUND", 
+                "MONETARY", 
+                "SAN RAFAEL", 
+                "CA", 
+                "94912", 
+                "", 
+                "", 
+                "", 
+                "$400,000.00", 
+                "5/2/2018", 
+                "7/31/2018", 
+                "2273437 - 4"
+            ], 
+            [
+                "HUMANE FARMING ACTION FUND", 
+                "MONETARY", 
+                "SAN RAFAEL", 
+                "CA", 
+                "94912", 
+                "", 
+                "", 
+                "", 
+                "$150,000.00", 
+                "5/10/2018", 
+                "7/31/2018", 
+                "2273437 - 5"
+            ], 
+            []
+        ]
+    }, 
+    "late_and_5k_plus_contributions_received": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [
+                "HUMANE FARMING ACTION FUND", 
+                "SAN RAFAEL", 
+                "CA / 94912", 
+                "", 
+                "", 
+                "", 
+                "         $150,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "05/10/2018", 
+                "05/14/2018", 
+                "2249094-2"
+            ], 
+            [
+                "HUMANE FARMING ACTION FUND", 
+                "SAN RAFAEL", 
+                "CA / 94912", 
+                "", 
+                "", 
+                "", 
+                "         $400,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "05/02/2018", 
+                "05/14/2018", 
+                "2249094-1"
+            ], 
+            [], 
+            []
+        ]
+    }
+}

@@ -1,1 +1,36 @@
-{"timestamp": "2018-08-18T14:36:02.545690", "committees": {"1401516": {"position": "OPPOSE", "link": "/Misc/Redirector.aspx?id=1401516&session=2017", "name": "NO ON PROP 10; CALIFORNIANS FOR RESPONSIBLE HOUSING, A COALTION OF VETERANS, SENIORS, AFFORDABLE HOUSING PROVIDERS, SOCIAL JUSTICE GROUPS, TAXPAYER ASSOCIATIONS, AND LABOR; SPONSORED BY THE CALIFORNIA"}, "1409098": {"position": "SUPPORT", "link": "/Misc/Redirector.aspx?id=1409098&session=2017", "name": "MAKE HOUSING AFFORDABLE - YES ON PROP. 10, A COALITION OF COMMUNITY GROUPS, RENTERS, UNIONS, SMALL LANDLORDS AND HOMEOWNERS"}, "1406786": {"position": "OPPOSE", "link": "/Misc/Redirector.aspx?id=1406786&session=2017", "name": "CALIFORNIA RENTAL HOUSING ASSOCIATION, NO ON PROP 10  (NONPROFIT 501(C)(6))"}, "1399958": {"position": "SUPPORT", "link": "/Misc/Redirector.aspx?id=1399958&session=2017", "name": "YES ON 10 - A COALITION OF TEACHERS, NURSES, SENIORS AND RENTERS FOR AFFORDABLE HOUSING, SPONSORED BY AIDS HEALTHCARE FOUNDATION AND ACCE ACTION"}, "1406422": {"position": "OPPOSE", "link": "/Misc/Redirector.aspx?id=1406422&session=2017", "name": "NO ON PROP 10 - A FLAWED INITIATIVE THAT WILL MAKE THE HOUSING CRISIS WORSE A COALITION OF HOUSING ADVOCATES, RENTERS, LARGE AND SMALL BUSINESSES, TAXPAYER GROUPS, AND VETERANS"}, "1406018": {"position": "OPPOSE", "link": "/Misc/Redirector.aspx?id=1406018&session=2017", "name": "CALIFORNIANS FOR AFFORDABLE HOUSING,  NO ON PROPOSITION 10, SPONSORED BY THE CALIFORNIA RENTAL HOUSING ASSOCIATION"}}, "prop": "010"}
+{
+    "timestamp": "2018-09-05T20:14:25.539223", 
+    "committees": {
+        "1401516": {
+            "position": "OPPOSE", 
+            "link": "/Misc/Redirector.aspx?id=1401516&session=2017", 
+            "name": "NO ON PROP 10; CALIFORNIANS FOR RESPONSIBLE HOUSING, A COALTION OF VETERANS, SENIORS, AFFORDABLE HOUSING PROVIDERS, SOCIAL JUSTICE GROUPS, TAXPAYER ASSOCIATIONS, AND LABOR; SPONSORED BY THE CALIFORNIA"
+        }, 
+        "1409098": {
+            "position": "SUPPORT", 
+            "link": "/Misc/Redirector.aspx?id=1409098&session=2017", 
+            "name": "MAKE HOUSING AFFORDABLE - YES ON PROP. 10, A COALITION OF COMMUNITY GROUPS, RENTERS, UNIONS, SMALL LANDLORDS AND HOMEOWNERS"
+        }, 
+        "1406786": {
+            "position": "OPPOSE", 
+            "link": "/Misc/Redirector.aspx?id=1406786&session=2017", 
+            "name": "CALIFORNIA RENTAL HOUSING ASSOCIATION, NO ON PROP 10  (NONPROFIT 501(C)(6))"
+        }, 
+        "1399958": {
+            "position": "SUPPORT", 
+            "link": "/Misc/Redirector.aspx?id=1399958&session=2017", 
+            "name": "YES ON 10 - A COALITION OF TEACHERS, NURSES, SENIORS AND RENTERS FOR AFFORDABLE HOUSING, SPONSORED BY AIDS HEALTHCARE FOUNDATION AND ACCE ACTION"
+        }, 
+        "1406422": {
+            "position": "OPPOSE", 
+            "link": "/Misc/Redirector.aspx?id=1406422&session=2017", 
+            "name": "NO ON PROP 10 - A FLAWED INITIATIVE THAT WILL MAKE THE HOUSING CRISIS WORSE A COALITION OF HOUSING ADVOCATES, RENTERS, LARGE AND SMALL BUSINESSES, TAXPAYER GROUPS, AND VETERANS"
+        }, 
+        "1406018": {
+            "position": "OPPOSE", 
+            "link": "/Misc/Redirector.aspx?id=1406018&session=2017", 
+            "name": "CALIFORNIANS FOR AFFORDABLE HOUSING,  NO ON PROPOSITION 10, SPONSORED BY THE CALIFORNIA RENTAL HOUSING ASSOCIATION"
+        }
+    }, 
+    "prop": "010"
+}

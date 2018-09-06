@@ -1,1 +1,16 @@
-{"timestamp": "2018-08-18T14:36:02.545690", "committees": {"1406518": {"position": "SUPPORT", "link": "/Misc/Redirector.aspx?id=1406518&session=2017", "name": "CALIFORNIA HOMELESS AND HOUSING COALITION ACTION FUND"}, "1401697": {"position": "SUPPORT", "link": "/Misc/Redirector.aspx?id=1401697&session=2017", "name": "AFFORDABLE HOUSING NOW - YES ON PROPS 1 & 2 COALITION: HOUSING CALIFORNIA, CALIFORNIA HOUSING CONSORTIUM, STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CALIFORNIA AND SILICON VALLEY LEADERSHIP..."}}, "prop": "001"}
+{
+    "timestamp": "2018-09-05T20:14:25.539223", 
+    "committees": {
+        "1406518": {
+            "position": "SUPPORT", 
+            "link": "/Misc/Redirector.aspx?id=1406518&session=2017", 
+            "name": "CALIFORNIA HOMELESS AND HOUSING COALITION ACTION FUND, YES ON PROPS 1 & 2"
+        }, 
+        "1401697": {
+            "position": "SUPPORT", 
+            "link": "/Misc/Redirector.aspx?id=1401697&session=2017", 
+            "name": "AFFORDABLE HOUSING NOW - YES ON PROPS 1 & 2 COALITION: HOUSING CALIFORNIA, CALIFORNIA HOUSING CONSORTIUM, STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CALIFORNIA AND SILICON VALLEY LEADERSHIP..."
+        }
+    }, 
+    "prop": "001"
+}

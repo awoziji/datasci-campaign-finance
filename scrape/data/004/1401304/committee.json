@@ -1,1 +1,797 @@
-{"timestamp": "2018-08-18T14:36:02.545690", "late_contributions_made": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [[], []]}, "contributions_made": {"header": ["DATE", "RECIPIENT", "CONTEST", "POSITION", "PAYMENT TYPE", "AMOUNT"], "data": []}, "late_independent_expenditures": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [[], []]}, "expenditures_made": {"header": ["DATE", "PAYEE", "EXPENDITURE CODE", "DESCRIPTION", "AMOUNT"], "data": [["01/17/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$350,000.00"], ["04/09/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$323,845.36"], ["04/16/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$264,477.60"], ["03/19/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$238,646.61"], ["04/23/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$212,399.25"], ["03/29/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$191,900.88"], ["03/05/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$158,507.01"], ["02/28/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$153,078.90"], ["02/12/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$151,780.80"], ["02/21/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$151,594.27"], ["04/02/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$151,458.14"], ["03/12/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$147,527.65"], ["02/05/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$105,620.28"], ["01/17/2018", "DAVID BINDER RESEARCH, INC.", "POLLING AND SURVEY RESEARCH", "", "$73,500.00"], ["05/17/2018", "NAISSANCE, LLC", "", "TEL, WEB", "$55,000.00"], ["02/13/2018", "NAISSANCE, LLC", "", "TEL, WEB", "$45,000.00"], ["02/01/2018", "NATIONAL PETITION MANAGEMENT, INC.", "PETITION CIRCULATING", "", "$44,475.09"], ["02/01/2018", "THE MONACO GROUP", "CAMPAIGN LITERATURE AND MAILINGS", "", "$18,428.29"], ["02/14/2018", "THE MONACO GROUP", "CAMPAIGN LITERATURE AND MAILINGS", "", "$15,234.23"], ["03/29/2018", "THE MONACO GROUP", "CAMPAIGN LITERATURE AND MAILINGS", "", "$15,234.23"], ["06/19/2018", "MERCURY PUBLIC AFFAIRS", "CAMPAIGN CONSULTANTS", "", "$9,000.00"], ["04/18/2018", "MERCURY PUBLIC AFFAIRS", "CAMPAIGN CONSULTANTS", "", "$9,000.00"], ["05/17/2018", "MERCURY PUBLIC AFFAIRS", "CAMPAIGN CONSULTANTS", "", "$9,000.00"], ["05/01/2018", "ROSS COMMUNICATIONS & MANAGEMENT, INC.", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["06/06/2018", "ROSS COMMUNICATIONS & MANAGEMENT, INC.", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["01/17/2018", "ROSS COMMUNICATIONS & MANAGEMENT, INC.", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["03/02/2018", "ROSS COMMUNICATIONS & MANAGEMENT, INC.", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["04/02/2018", "ROSS COMMUNICATIONS & MANAGEMENT, INC.", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["02/02/2018", "ROSS COMMUNICATIONS & MANAGEMENT, INC.", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["03/29/2018", "ROSS COMMUNICATIONS & MANAGEMENT, INC.", "CAMPAIGN LITERATURE AND MAILINGS", "", "$4,867.30"], ["02/14/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$4,525.27"], ["05/11/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$3,977.15"], ["03/12/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$3,267.06"], ["03/23/2018", "JOHNSTON, EMILY", "CAMPAIGN CONSULTANTS", "", "$2,550.00"], ["06/06/2018", "PRINT LOGISTICS", "CAMPAIGN LITERATURE AND MAILINGS", "", "$1,997.60"], ["06/19/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$1,873.74"], ["04/13/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$1,636.59"], ["05/17/2018", "CALIFORNIA CHILDREN\u0012S HOSPITAL ASSOCIATION", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$1,440.17"], ["04/16/2018", "PRINT INFINITE", "CAMPAIGN LITERATURE AND MAILINGS", "", "$896.70"], ["05/17/2018", "ROSS COMMUNICATIONS & MANAGEMENT, INC.", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$778.06"], ["01/22/2018", "ROSS COMMUNICATIONS & MANAGEMENT, INC.", "OFFICE EXPENSES", "", "$650.00"], ["03/12/2018", "CALIFORNIA CHILDREN\u0012S HOSPITAL ASSOCIATION", "OFFICE EXPENSES", "", "$393.26"], ["06/19/2018", "MERCURY PUBLIC AFFAIRS", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$250.68"]]}, "contributions_received": {"header": ["NAME OF CONTRIBUTOR", "PAYMENT TYPE", "CITY", "STATE", "ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION DATE", "FILED DATE", "TRANSACTION NUMBER"], "data": [["VALLEY CHILDREN'S HOSPITAL", "MONETARY", "MADERA", "CA", "93638", "484259", "", "", "$681,500.00", "1/5/2018", "4/30/2018", "2241379 - INC1"], ["CHILDREN'S HOSPITAL LOS ANGELES", "MONETARY", "LOS ANGELES", "CA", "90027", "484214", "", "", "$681,500.00", "1/16/2018", "4/30/2018", "2241379 - INC10"], ["CHILDREN'S HOSPITAL OF ORANGE COUNTY", "MONETARY", "ORANGE COUNTY", "CA", "92868", "484207", "", "", "$681,500.00", "1/18/2018", "4/30/2018", "2241379 - INC11"], ["CHILDREN'S HOSPITAL AND RESEARCH CENTER OAKLAND", "MONETARY", "OAKLAND", "CA", "94609", "", "", "", "$681,500.00", "2/1/2018", "4/30/2018", "2241379 - INC18"], ["LOMA LINDA UNIVERSITY CHILDREN'S HOSPITAL", "MONETARY", "LOMA LINDA", "CA", "92354", "", "", "", "$681,500.00", "1/9/2018", "4/30/2018", "2241379 - INC2"], ["MILLER CHILDREN\u0012S & WOMEN\u0012S HOSPITAL LONG BEACH", "MONETARY", "LONG BEACH", "CA", "90801", "", "", "", "$681,500.00", "2/5/2018", "4/30/2018", "2241379 - INC20"], ["RADY CHILDREN'S HOSPITAL - SAN DIEGO", "MONETARY", "SAN DIEGO", "CA", "92123", "", "", "", "$681,500.00", "2/9/2018", "4/30/2018", "2241379 - INC21"], ["LUCILE PACKARD CHILDREN'S HOSPITAL", "MONETARY", "PALO ALTO", "CA", "94304", "1262259", "", "", "$681,500.00", "1/10/2018", "4/30/2018", "2241379 - INC5"], ["CHILDREN'S HOSPITAL LOS ANGELES", "MONETARY", "LOS ANGELES", "CA", "90027", "484214", "", "", "$100.00", "4/23/2018", "7/31/2018", "2275437 - INC49"], ["VALLEY CHILDREN'S HOSPITAL", "MONETARY", "MADERA", "CA", "93636", "484259", "", "", "$100.00", "4/25/2018", "7/31/2018", "2275437 - INC50"], ["CHILDREN'S HOSPITAL OF ORANGE COUNTY", "MONETARY", "ORANGE COUNTY", "CA", "92868", "484207", "", "", "$100.00", "4/26/2018", "7/31/2018", "2275437 - INC51"], ["CHILDREN'S HOSPITAL OF ORANGE COUNTY", "MONETARY", "ORANGE COUNTY", "CA", "92868", "484207", "", "", "$681,500.00", "6/25/2018", "7/31/2018", "2275437 - INC66"], []]}, "late_and_5k_plus_contributions_received": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [["RADY CHILDREN'S HOSPITAL - SAN DIEGO", "SAN DIEGO", "CA / 92123", "", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "07/30/2018", "07/31/2018", "2276042-INC97"], ["CHILDREN'S HOSPITAL AND RESEARCH CENTER OAKLAND", "OAKLAND", "CA / 94609", "", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "07/10/2018", "07/11/2018", "2263931-INC86"], ["LUCILE PACKARD CHILDREN'S HOSPITAL", "PALO ALTO", "CA / 94304", "1262259", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "07/10/2018", "07/11/2018", "2263931-INC85"], ["CHILDREN'S HOSPITAL LOS ANGELES", "LOS ANGELES", "CA / 90027", "484214", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "07/09/2018", "07/09/2018", "2263279-INC80"], ["VALLEY CHILDREN'S HOSPITAL", "MADERA", "CA / 93638", "484259", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "07/06/2018", "07/09/2018", "2263279-INC79"], ["MILLER CHILDREN'S & WOMEN'S HOSPITAL LONG BEACH", "LONG BEACH", "CA / 90801", "", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "07/02/2018", "07/03/2018", "2262422-INC73"], ["CHILDREN'S HOSPITAL OF ORANGE COUNTY", "ORANGE COUNTY", "CA / 92868", "484207", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "06/25/2018", "06/26/2018", "2261603-INC66"], ["RADY CHILDREN\u0012S HOSPITAL", "SAN DIEGO", "CA / 92123", "", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "02/09/2018", "02/09/2018", "2214174-INC21"], ["MILLER CHILDREN'S HOSPITAL AT LONG BEACH MEMORIAL", "LONG BEACH", "CA / 90801", "", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "02/05/2018", "02/09/2018", "2214174-INC20"], ["CHILDREN'S HOSPITAL AND RESEARCH CENTER OAKLAND", "OAKLAND", "CA / 94609", "", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "02/01/2018", "02/09/2018", "2214174-INC18"], ["CHILDREN'S HOSPITAL OF ORANGE COUNTY", "ORANGE COUNTY", "CA / 92868", "484207", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/18/2018", "01/19/2018", "2203307-INC11"], ["CHILDREN'S HOSPITAL LOS ANGELES", "LOS ANGELES", "CA / 90027", "484214", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/16/2018", "01/19/2018", "2203307-INC10"], ["LUCILE PACKARD CHILDREN\u0012S HOSPITAL", "PALO ALTO", "CA / 94304", "", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/10/2018", "01/12/2018", "2201590-INC5"], ["LOMA LINDA UNIVERSITY CHILDREN'S HOSPITAL", "LOMA LINDA", "CA / 92354", "", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/09/2018", "01/12/2018", "2201590-INC2"], ["VALLEY CHILDREN'S HOSPITAL", "MADERA", "CA / 93638", "", "", "", "         $681,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/05/2018", "01/12/2018", "2201590-INC1"], [], []]}}
+{
+    "timestamp": "2018-09-05T20:14:25.539223", 
+    "late_contributions_made": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [], 
+            []
+        ]
+    }, 
+    "contributions_made": {
+        "header": [
+            "DATE", 
+            "RECIPIENT", 
+            "CONTEST", 
+            "POSITION", 
+            "PAYMENT TYPE", 
+            "AMOUNT"
+        ], 
+        "data": []
+    }, 
+    "late_independent_expenditures": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [], 
+            []
+        ]
+    }, 
+    "expenditures_made": {
+        "header": [
+            "DATE", 
+            "PAYEE", 
+            "EXPENDITURE CODE", 
+            "DESCRIPTION", 
+            "AMOUNT"
+        ], 
+        "data": [
+            [
+                "01/17/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$350,000.00"
+            ], 
+            [
+                "04/09/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$323,845.36"
+            ], 
+            [
+                "04/16/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$264,477.60"
+            ], 
+            [
+                "03/19/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$238,646.61"
+            ], 
+            [
+                "04/23/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$212,399.25"
+            ], 
+            [
+                "03/29/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$191,900.88"
+            ], 
+            [
+                "03/05/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$158,507.01"
+            ], 
+            [
+                "02/28/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$153,078.90"
+            ], 
+            [
+                "02/12/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$151,780.80"
+            ], 
+            [
+                "02/21/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$151,594.27"
+            ], 
+            [
+                "04/02/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$151,458.14"
+            ], 
+            [
+                "03/12/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$147,527.65"
+            ], 
+            [
+                "02/05/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$105,620.28"
+            ], 
+            [
+                "01/17/2018", 
+                "DAVID BINDER RESEARCH, INC.", 
+                "POLLING AND SURVEY RESEARCH", 
+                "", 
+                "$73,500.00"
+            ], 
+            [
+                "05/17/2018", 
+                "NAISSANCE, LLC", 
+                "", 
+                "TEL, WEB", 
+                "$55,000.00"
+            ], 
+            [
+                "02/13/2018", 
+                "NAISSANCE, LLC", 
+                "", 
+                "TEL, WEB", 
+                "$45,000.00"
+            ], 
+            [
+                "02/01/2018", 
+                "NATIONAL PETITION MANAGEMENT, INC.", 
+                "PETITION CIRCULATING", 
+                "", 
+                "$44,475.09"
+            ], 
+            [
+                "02/01/2018", 
+                "THE MONACO GROUP", 
+                "CAMPAIGN LITERATURE AND MAILINGS", 
+                "", 
+                "$18,428.29"
+            ], 
+            [
+                "02/14/2018", 
+                "THE MONACO GROUP", 
+                "CAMPAIGN LITERATURE AND MAILINGS", 
+                "", 
+                "$15,234.23"
+            ], 
+            [
+                "03/29/2018", 
+                "THE MONACO GROUP", 
+                "CAMPAIGN LITERATURE AND MAILINGS", 
+                "", 
+                "$15,234.23"
+            ], 
+            [
+                "06/19/2018", 
+                "MERCURY PUBLIC AFFAIRS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$9,000.00"
+            ], 
+            [
+                "04/18/2018", 
+                "MERCURY PUBLIC AFFAIRS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$9,000.00"
+            ], 
+            [
+                "05/17/2018", 
+                "MERCURY PUBLIC AFFAIRS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$9,000.00"
+            ], 
+            [
+                "05/01/2018", 
+                "ROSS COMMUNICATIONS & MANAGEMENT, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "06/06/2018", 
+                "ROSS COMMUNICATIONS & MANAGEMENT, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "01/17/2018", 
+                "ROSS COMMUNICATIONS & MANAGEMENT, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "03/02/2018", 
+                "ROSS COMMUNICATIONS & MANAGEMENT, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "04/02/2018", 
+                "ROSS COMMUNICATIONS & MANAGEMENT, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "02/02/2018", 
+                "ROSS COMMUNICATIONS & MANAGEMENT, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "03/29/2018", 
+                "ROSS COMMUNICATIONS & MANAGEMENT, INC.", 
+                "CAMPAIGN LITERATURE AND MAILINGS", 
+                "", 
+                "$4,867.30"
+            ], 
+            [
+                "02/14/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$4,525.27"
+            ], 
+            [
+                "05/11/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$3,977.15"
+            ], 
+            [
+                "03/12/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$3,267.06"
+            ], 
+            [
+                "03/23/2018", 
+                "JOHNSTON, EMILY", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$2,550.00"
+            ], 
+            [
+                "06/06/2018", 
+                "PRINT LOGISTICS", 
+                "CAMPAIGN LITERATURE AND MAILINGS", 
+                "", 
+                "$1,997.60"
+            ], 
+            [
+                "06/19/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$1,873.74"
+            ], 
+            [
+                "04/13/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$1,636.59"
+            ], 
+            [
+                "05/17/2018", 
+                "CALIFORNIA CHILDREN\u0012S HOSPITAL ASSOCIATION", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$1,440.17"
+            ], 
+            [
+                "04/16/2018", 
+                "PRINT INFINITE", 
+                "CAMPAIGN LITERATURE AND MAILINGS", 
+                "", 
+                "$896.70"
+            ], 
+            [
+                "05/17/2018", 
+                "ROSS COMMUNICATIONS & MANAGEMENT, INC.", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$778.06"
+            ], 
+            [
+                "01/22/2018", 
+                "ROSS COMMUNICATIONS & MANAGEMENT, INC.", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$650.00"
+            ], 
+            [
+                "03/12/2018", 
+                "CALIFORNIA CHILDREN\u0012S HOSPITAL ASSOCIATION", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$393.26"
+            ], 
+            [
+                "06/19/2018", 
+                "MERCURY PUBLIC AFFAIRS", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$250.68"
+            ]
+        ]
+    }, 
+    "contributions_received": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "PAYMENT TYPE", 
+            "CITY", 
+            "STATE", 
+            "ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION DATE", 
+            "FILED DATE", 
+            "TRANSACTION NUMBER"
+        ], 
+        "data": [
+            [
+                "VALLEY CHILDREN'S HOSPITAL", 
+                "MONETARY", 
+                "MADERA", 
+                "CA", 
+                "93638", 
+                "484259", 
+                "", 
+                "", 
+                "$681,500.00", 
+                "1/5/2018", 
+                "4/30/2018", 
+                "2241379 - INC1"
+            ], 
+            [
+                "CHILDREN'S HOSPITAL LOS ANGELES", 
+                "MONETARY", 
+                "LOS ANGELES", 
+                "CA", 
+                "90027", 
+                "484214", 
+                "", 
+                "", 
+                "$681,500.00", 
+                "1/16/2018", 
+                "4/30/2018", 
+                "2241379 - INC10"
+            ], 
+            [
+                "CHILDREN'S HOSPITAL OF ORANGE COUNTY", 
+                "MONETARY", 
+                "ORANGE COUNTY", 
+                "CA", 
+                "92868", 
+                "484207", 
+                "", 
+                "", 
+                "$681,500.00", 
+                "1/18/2018", 
+                "4/30/2018", 
+                "2241379 - INC11"
+            ], 
+            [
+                "CHILDREN'S HOSPITAL AND RESEARCH CENTER OAKLAND", 
+                "MONETARY", 
+                "OAKLAND", 
+                "CA", 
+                "94609", 
+                "", 
+                "", 
+                "", 
+                "$681,500.00", 
+                "2/1/2018", 
+                "4/30/2018", 
+                "2241379 - INC18"
+            ], 
+            [
+                "LOMA LINDA UNIVERSITY CHILDREN'S HOSPITAL", 
+                "MONETARY", 
+                "LOMA LINDA", 
+                "CA", 
+                "92354", 
+                "", 
+                "", 
+                "", 
+                "$681,500.00", 
+                "1/9/2018", 
+                "4/30/2018", 
+                "2241379 - INC2"
+            ], 
+            [
+                "MILLER CHILDREN\u0012S & WOMEN\u0012S HOSPITAL LONG BEACH", 
+                "MONETARY", 
+                "LONG BEACH", 
+                "CA", 
+                "90801", 
+                "", 
+                "", 
+                "", 
+                "$681,500.00", 
+                "2/5/2018", 
+                "4/30/2018", 
+                "2241379 - INC20"
+            ], 
+            [
+                "RADY CHILDREN'S HOSPITAL - SAN DIEGO", 
+                "MONETARY", 
+                "SAN DIEGO", 
+                "CA", 
+                "92123", 
+                "", 
+                "", 
+                "", 
+                "$681,500.00", 
+                "2/9/2018", 
+                "4/30/2018", 
+                "2241379 - INC21"
+            ], 
+            [
+                "LUCILE PACKARD CHILDREN'S HOSPITAL", 
+                "MONETARY", 
+                "PALO ALTO", 
+                "CA", 
+                "94304", 
+                "1262259", 
+                "", 
+                "", 
+                "$681,500.00", 
+                "1/10/2018", 
+                "4/30/2018", 
+                "2241379 - INC5"
+            ], 
+            [
+                "CHILDREN'S HOSPITAL LOS ANGELES", 
+                "MONETARY", 
+                "LOS ANGELES", 
+                "CA", 
+                "90027", 
+                "484214", 
+                "", 
+                "", 
+                "$100.00", 
+                "4/23/2018", 
+                "7/31/2018", 
+                "2275437 - INC49"
+            ], 
+            [
+                "VALLEY CHILDREN'S HOSPITAL", 
+                "MONETARY", 
+                "MADERA", 
+                "CA", 
+                "93636", 
+                "484259", 
+                "", 
+                "", 
+                "$100.00", 
+                "4/25/2018", 
+                "7/31/2018", 
+                "2275437 - INC50"
+            ], 
+            [
+                "CHILDREN'S HOSPITAL OF ORANGE COUNTY", 
+                "MONETARY", 
+                "ORANGE COUNTY", 
+                "CA", 
+                "92868", 
+                "484207", 
+                "", 
+                "", 
+                "$100.00", 
+                "4/26/2018", 
+                "7/31/2018", 
+                "2275437 - INC51"
+            ], 
+            [
+                "CHILDREN'S HOSPITAL OF ORANGE COUNTY", 
+                "MONETARY", 
+                "ORANGE COUNTY", 
+                "CA", 
+                "92868", 
+                "484207", 
+                "", 
+                "", 
+                "$681,500.00", 
+                "6/25/2018", 
+                "7/31/2018", 
+                "2275437 - INC66"
+            ], 
+            []
+        ]
+    }, 
+    "late_and_5k_plus_contributions_received": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [
+                "LOMA LINDA UNIVERSITY CHILDREN'S HOSPITAL", 
+                "LOMA LINDA", 
+                "CA / 92354", 
+                "", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "08/24/2018", 
+                "08/24/2018", 
+                "2286315-INC108"
+            ], 
+            [
+                "RADY CHILDREN'S HOSPITAL - SAN DIEGO", 
+                "SAN DIEGO", 
+                "CA / 92123", 
+                "", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "07/30/2018", 
+                "07/31/2018", 
+                "2276042-INC97"
+            ], 
+            [
+                "CHILDREN'S HOSPITAL AND RESEARCH CENTER OAKLAND", 
+                "OAKLAND", 
+                "CA / 94609", 
+                "", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "07/10/2018", 
+                "07/11/2018", 
+                "2263931-INC86"
+            ], 
+            [
+                "LUCILE PACKARD CHILDREN'S HOSPITAL", 
+                "PALO ALTO", 
+                "CA / 94304", 
+                "1262259", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "07/10/2018", 
+                "07/11/2018", 
+                "2263931-INC85"
+            ], 
+            [
+                "CHILDREN'S HOSPITAL LOS ANGELES", 
+                "LOS ANGELES", 
+                "CA / 90027", 
+                "484214", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "07/09/2018", 
+                "07/09/2018", 
+                "2263279-INC80"
+            ], 
+            [
+                "VALLEY CHILDREN'S HOSPITAL", 
+                "MADERA", 
+                "CA / 93638", 
+                "484259", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "07/06/2018", 
+                "07/09/2018", 
+                "2263279-INC79"
+            ], 
+            [
+                "MILLER CHILDREN'S & WOMEN'S HOSPITAL LONG BEACH", 
+                "LONG BEACH", 
+                "CA / 90801", 
+                "", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "07/02/2018", 
+                "07/03/2018", 
+                "2262422-INC73"
+            ], 
+            [
+                "CHILDREN'S HOSPITAL OF ORANGE COUNTY", 
+                "ORANGE COUNTY", 
+                "CA / 92868", 
+                "484207", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "06/25/2018", 
+                "06/26/2018", 
+                "2261603-INC66"
+            ], 
+            [
+                "RADY CHILDREN\u0012S HOSPITAL", 
+                "SAN DIEGO", 
+                "CA / 92123", 
+                "", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "02/09/2018", 
+                "02/09/2018", 
+                "2214174-INC21"
+            ], 
+            [
+                "MILLER CHILDREN'S HOSPITAL AT LONG BEACH MEMORIAL", 
+                "LONG BEACH", 
+                "CA / 90801", 
+                "", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "02/05/2018", 
+                "02/09/2018", 
+                "2214174-INC20"
+            ], 
+            [
+                "CHILDREN'S HOSPITAL AND RESEARCH CENTER OAKLAND", 
+                "OAKLAND", 
+                "CA / 94609", 
+                "", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "02/01/2018", 
+                "02/09/2018", 
+                "2214174-INC18"
+            ], 
+            [
+                "CHILDREN'S HOSPITAL OF ORANGE COUNTY", 
+                "ORANGE COUNTY", 
+                "CA / 92868", 
+                "484207", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/18/2018", 
+                "01/19/2018", 
+                "2203307-INC11"
+            ], 
+            [
+                "CHILDREN'S HOSPITAL LOS ANGELES", 
+                "LOS ANGELES", 
+                "CA / 90027", 
+                "484214", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/16/2018", 
+                "01/19/2018", 
+                "2203307-INC10"
+            ], 
+            [
+                "LUCILE PACKARD CHILDREN\u0012S HOSPITAL", 
+                "PALO ALTO", 
+                "CA / 94304", 
+                "", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/10/2018", 
+                "01/12/2018", 
+                "2201590-INC5"
+            ], 
+            [
+                "LOMA LINDA UNIVERSITY CHILDREN'S HOSPITAL", 
+                "LOMA LINDA", 
+                "CA / 92354", 
+                "", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/09/2018", 
+                "01/12/2018", 
+                "2201590-INC2"
+            ], 
+            [
+                "VALLEY CHILDREN'S HOSPITAL", 
+                "MADERA", 
+                "CA / 93638", 
+                "", 
+                "", 
+                "", 
+                "         $681,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/05/2018", 
+                "01/12/2018", 
+                "2201590-INC1"
+            ], 
+            [], 
+            []
+        ]
+    }
+}

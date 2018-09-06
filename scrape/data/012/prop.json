@@ -1,1 +1,16 @@
-{"timestamp": "2018-08-18T14:36:02.545690", "committees": {"1399103": {"position": "SUPPORT", "link": "/Misc/Redirector.aspx?id=1399103&session=2017", "name": "PREVENT CRUELTY CALIFORNIA, A HUMANE SOCIETY COMMITTEE"}, "1405877": {"position": "OPPOSE", "link": "/Misc/Redirector.aspx?id=1405877&session=2017", "name": "CALIFORNIANS AGAINST CRUELTY, CAGES AND FRAUD -- NO ON PROP 12 -- SPONSORED BY HUMANE FARMING ACTION FUND"}}, "prop": "012"}
+{
+    "timestamp": "2018-09-05T20:14:25.539223", 
+    "committees": {
+        "1399103": {
+            "position": "SUPPORT", 
+            "link": "/Misc/Redirector.aspx?id=1399103&session=2017", 
+            "name": "PREVENT CRUELTY CALIFORNIA, A HUMANE SOCIETY COMMITTEE"
+        }, 
+        "1405877": {
+            "position": "OPPOSE", 
+            "link": "/Misc/Redirector.aspx?id=1405877&session=2017", 
+            "name": "CALIFORNIANS AGAINST CRUELTY, CAGES AND FRAUD -- NO ON PROP 12 -- SPONSORED BY HUMANE FARMING ACTION FUND"
+        }
+    }, 
+    "prop": "012"
+}

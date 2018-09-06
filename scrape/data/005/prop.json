@@ -1,1 +1,16 @@
-{"timestamp": "2018-08-18T14:36:02.545690", "committees": {"1400190": {"position": "SUPPORT", "link": "/Misc/Redirector.aspx?id=1400190&session=2017", "name": "YES ON 5 COMMITTEE, SPONSORED BY THE CALIFORNIA ASSOCIATION OF REALTORS"}, "1407354": {"position": "OPPOSE", "link": "/Misc/Redirector.aspx?id=1407354&session=2017", "name": "NO ON PROP 5, SPONSORED BY EDUCATORS, PUBLIC SAFETY AND HEALTH CARE ORGANIZATIONS"}}, "prop": "005"}
+{
+    "timestamp": "2018-09-05T20:14:25.539223", 
+    "committees": {
+        "1400190": {
+            "position": "SUPPORT", 
+            "link": "/Misc/Redirector.aspx?id=1400190&session=2017", 
+            "name": "YES ON 5 COMMITTEE, SPONSORED BY THE CALIFORNIA ASSOCIATION OF REALTORS"
+        }, 
+        "1407354": {
+            "position": "OPPOSE", 
+            "link": "/Misc/Redirector.aspx?id=1407354&session=2017", 
+            "name": "NO ON PROP 5, SPONSORED BY EDUCATORS, PUBLIC SAFETY AND HEALTH CARE ORGANIZATIONS"
+        }
+    }, 
+    "prop": "005"
+}

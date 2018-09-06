@@ -1,1 +1,1518 @@
-{"timestamp": "2018-08-18T14:36:02.545690", "late_contributions_made": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [["CALIFORNIA DEMOCRATIC PARTY", "SACRAMENTO", "CA / 95811", "741666", "", "", "           $7,000.00", "LATE CONTRIBUTION MADE", "INITIAL", "07/13/2018", "07/20/2018", "2267010-PDT197"], ["CALIFORNIA REPUBLICAN PARTY", "SACRAMENTO", "CA / 95814", "810163", "", "", "          $10,000.00", "LATE CONTRIBUTION MADE", "INITIAL", "04/20/2018", "04/20/2018", "2233395-EXP153"], ["CALIFORNIA DEMOCRATIC PARTY", "SACRAMENTO", "CA / 95811", "", "", "", "          $10,000.00", "LATE CONTRIBUTION MADE", "INITIAL", "01/25/2018", "01/25/2018", "2205511-EXP57"], [], []]}, "contributions_made": {"header": ["DATE", "RECIPIENT", "CONTEST", "POSITION", "PAYMENT TYPE", "AMOUNT"], "data": []}, "late_independent_expenditures": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [[], []]}, "expenditures_made": {"header": ["DATE", "PAYEE", "EXPENDITURE CODE", "DESCRIPTION", "AMOUNT"], "data": [["04/04/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$700,000.00"], ["04/04/2018", "TARGET ENTERPRISES, LLC", "T.V. OR CABLE AIRTIME AND PRODUCTION COSTS", "", "$223,600.00"], ["05/30/2018", "BERKELEY RESEARCH GROUP, LLC", "CAMPAIGN CONSULTANTS", "", "$143,833.20"], ["06/19/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$87,225.00"], ["06/19/2018", "FAIRBANK MASLIN MAULLIN, METZ & ASSOCIATES, INC.", "POLLING AND SURVEY RESEARCH", "", "$79,750.00"], ["12/18/2017", "FAIRBANK MASLIN MAULLIN, METZ & ASSOCIATES, INC.", "POLLING AND SURVEY RESEARCH", "", "$63,500.00"], ["06/19/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$61,026.30"], ["06/19/2018", "BICKER, CASTILLO & FAIRBANKS", "CAMPAIGN CONSULTANTS", "", "$60,000.00"], ["06/19/2018", "WINNER & MANDABACH CAMPAIGNS", "CAMPAIGN CONSULTANTS", "", "$60,000.00"], ["04/30/2018", "AMPLIFIED STRATEGIES, INC.", "POLLING AND SURVEY RESEARCH", "", "$55,773.00"], ["05/30/2018", "AMPLIFIED STRATEGIES, INC.", "POLLING AND SURVEY RESEARCH", "", "$54,222.00"], ["05/30/2018", "BICKER, CASTILLO & FAIRBANKS", "CAMPAIGN CONSULTANTS", "", "$52,500.00"], ["05/30/2018", "WINNER & MANDABACH CAMPAIGNS", "CAMPAIGN CONSULTANTS", "", "$52,500.00"], ["05/30/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$50,000.00"], ["11/30/2017", "FAIRBANK MASLIN MAULLIN, METZ & ASSOCIATES, INC.", "POLLING AND SURVEY RESEARCH", "", "$46,175.00"], ["05/30/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$45,161.02"], ["01/10/2018", "BICKER, CASTILLO & FAIRBANKS", "CAMPAIGN CONSULTANTS", "", "$45,000.00"], ["04/17/2018", "BICKER, CASTILLO & FAIRBANKS", "CAMPAIGN CONSULTANTS", "", "$45,000.00"], ["01/10/2018", "WINNER & MANDABACH CAMPAIGNS", "CAMPAIGN CONSULTANTS", "", "$45,000.00"], ["02/21/2018", "WINNER & MANDABACH CAMPAIGNS", "CAMPAIGN CONSULTANTS", "", "$45,000.00"], ["03/19/2018", "WINNER & MANDABACH CAMPAIGNS", "CAMPAIGN CONSULTANTS", "", "$45,000.00"], ["02/21/2018", "BICKER, CASTILLO & FAIRBANKS", "CAMPAIGN CONSULTANTS", "", "$45,000.00"], ["12/18/2017", "BICKER, CASTILLO & FAIRBANKS", "CAMPAIGN CONSULTANTS", "", "$45,000.00"], ["12/18/2017", "WINNER & MANDABACH CAMPAIGNS", "CAMPAIGN CONSULTANTS", "", "$45,000.00"], ["03/19/2018", "BICKER, CASTILLO & FAIRBANKS", "CAMPAIGN CONSULTANTS", "", "$45,000.00"], ["04/17/2018", "WINNER & MANDABACH CAMPAIGNS", "CAMPAIGN CONSULTANTS", "", "$45,000.00"], ["04/17/2018", "METROPOLIS MEDIA GROUP, INC.", "T.V. OR CABLE AIRTIME AND PRODUCTION COSTS", "", "$42,647.00"], ["04/30/2018", "WINNER & MANDABACH CAMPAIGNS", "T.V. OR CABLE AIRTIME AND PRODUCTION COSTS", "", "$37,570.00"], ["06/19/2018", "BERKELEY RESEARCH GROUP, LLC", "CAMPAIGN CONSULTANTS", "", "$36,930.75"], ["12/18/2017", "FORWARD OBSERVER, INC.", "CAMPAIGN CONSULTANTS", "", "$25,000.00"], ["04/17/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$22,937.76"], ["11/30/2017", "WINNER & MANDABACH CAMPAIGNS", "CAMPAIGN CONSULTANTS", "", "$22,500.00"], ["12/04/2017", "BICKER, CASTILLO & FAIRBANKS", "CAMPAIGN CONSULTANTS", "", "$22,500.00"], ["05/30/2018", "RESEARCHED MEDIA AND MESSAGING, LLC", "CAMPAIGN CONSULTANTS", "", "$20,000.00"], ["06/19/2018", "FORWARD OBSERVER, INC.", "CAMPAIGN CONSULTANTS", "", "$20,000.00"], ["04/17/2018", "BICKER, CASTILLO & FAIRBANKS", "", "CVC, OFC, WEB, TRS", "$17,847.12"], ["02/21/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$17,668.13"], ["05/30/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$15,000.00"], ["06/19/2018", "CENTAUR NORTH STRATEGIES", "CAMPAIGN CONSULTANTS", "", "$15,000.00"], ["06/19/2018", "PELOTE STRATEGIC CONSULTING & ADVOCACY", "CAMPAIGN CONSULTANTS", "", "$15,000.00"], ["05/30/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$15,000.00"], ["06/22/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$13,850.00"], ["03/19/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$13,385.29"], ["05/30/2018", "BICKER, CASTILLO & FAIRBANKS", "", "OFC, LIT, POS, TRS, WEB", "$13,132.12"], ["05/30/2018", "PELOTE STRATEGIC CONSULTING & ADVOCACY", "CAMPAIGN CONSULTANTS", "", "$12,500.00"], ["12/18/2017", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$12,290.40"], ["04/17/2018", "JAY HANSEN", "CAMPAIGN CONSULTANTS", "", "$12,000.00"], ["02/21/2018", "JAY HANSEN", "CAMPAIGN CONSULTANTS", "", "$12,000.00"], ["05/30/2018", "JAY HANSEN", "CAMPAIGN CONSULTANTS", "", "$12,000.00"], ["01/10/2018", "JAY HANSEN", "CAMPAIGN CONSULTANTS", "", "$12,000.00"], ["03/19/2018", "JAY HANSEN", "CAMPAIGN CONSULTANTS", "", "$12,000.00"], ["05/30/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$10,200.00"], ["04/17/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$10,200.00"], ["06/19/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$10,200.00"], ["03/19/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$10,190.32"], ["02/21/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$10,150.00"], ["06/19/2018", "ALEXANDRA ROOKER", "CAMPAIGN CONSULTANTS", "", "$10,000.00"], ["05/30/2018", "AC PUBLIC AFFAIRS, INC.", "CAMPAIGN CONSULTANTS", "", "$10,000.00"], ["05/30/2018", "ALEXANDRA ROOKER", "CAMPAIGN CONSULTANTS", "", "$10,000.00"], ["06/19/2018", "AC PUBLIC AFFAIRS, INC.", "CAMPAIGN CONSULTANTS", "", "$10,000.00"], ["01/25/2018", "CALIFORNIA DEMOCRATIC PARTY", "MEETINGS AND APPEARANCES", "", "$10,000.00"], ["04/20/2018", "CALIFORNIA REPUBLICAN PARTY", "MEETINGS AND APPEARANCES", "", "$10,000.00"], ["02/21/2018", "ALEXANDRA ROOKER", "CAMPAIGN CONSULTANTS", "", "$10,000.00"], ["03/19/2018", "ALEXANDRA ROOKER", "CAMPAIGN CONSULTANTS", "", "$10,000.00"], ["04/17/2018", "AC PUBLIC AFFAIRS, INC.", "CAMPAIGN CONSULTANTS", "", "$10,000.00"], ["04/17/2018", "ALEXANDRA ROOKER", "CAMPAIGN CONSULTANTS", "", "$10,000.00"], ["05/30/2018", "FORWARD OBSERVER, INC.", "CAMPAIGN CONSULTANTS", "", "$10,000.00"], ["01/10/2018", "ALEXANDRA ROOKER", "CAMPAIGN CONSULTANTS", "", "$10,000.00"], ["04/04/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$10,000.00"], ["06/19/2018", "CERRELL ASSOCIATES, INC.", "CAMPAIGN CONSULTANTS", "", "$10,000.00"], ["03/19/2018", "BICKER, CASTILLO & FAIRBANKS", "", "OFC, WEB, TRS", "$9,190.44"], ["05/30/2018", "BERKELEY RESEARCH GROUP, LLC", "CAMPAIGN CONSULTANTS", "", "$9,190.13"], ["06/19/2018", "JAY HANSEN", "CAMPAIGN CONSULTANTS", "", "$9,000.00"], ["03/19/2018", "FORWARD OBSERVER, INC.", "CAMPAIGN CONSULTANTS", "", "$9,000.00"], ["02/21/2018", "FORWARD OBSERVER, INC.", "CAMPAIGN CONSULTANTS", "", "$8,000.00"], ["01/10/2018", "FORWARD OBSERVER, INC.", "CAMPAIGN CONSULTANTS", "", "$8,000.00"], ["06/19/2018", "BICKER, CASTILLO & FAIRBANKS", "", "OFC, TRS, WEB", "$7,551.88"], ["01/10/2018", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$7,538.31"], ["04/30/2018", "WINNER & MANDABACH CAMPAIGNS", "CAMPAIGN CONSULTANTS", "", "$6,630.00"], ["04/17/2018", "BERKELEY RESEARCH GROUP, LLC", "CAMPAIGN CONSULTANTS", "", "$6,302.37"], ["12/18/2017", "JAY HANSEN", "CAMPAIGN CONSULTANTS", "", "$6,000.00"], ["06/19/2018", "BERKELEY RESEARCH GROUP, LLC", "", "OFC, TRS", "$5,128.24"], ["11/30/2017", "BELL, MCANDREWS & HILTACHK, LLP", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$5,069.40"], ["02/22/2018", "ANDREW RUSSELL", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["05/30/2018", "ANDREW RUSSELL", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["04/17/2018", "ANDREW RUSSELL", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["03/19/2018", "AC PUBLIC AFFAIRS, INC.", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["03/19/2018", "ANDREW RUSSELL", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["06/19/2018", "ANDREW RUSSELL", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["01/10/2018", "ANDREW RUSSELL", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["02/21/2018", "BASK DIGITAL MEDIA, LLC", "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", "", "$5,000.00"], ["04/17/2018", "PELOTE STRATEGIC CONSULTING & ADVOCACY", "CAMPAIGN CONSULTANTS", "", "$5,000.00"], ["02/21/2018", "BICKER, CASTILLO & FAIRBANKS", "", "LIT, OFC, MTG, WEB", "$4,754.79"], ["04/17/2018", "LITTLER MENDELSON P.C.", "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", "", "$4,613.75"], ["06/19/2018", "TANNER KELLY", "CAMPAIGN CONSULTANTS", "", "$4,500.00"], ["06/19/2018", "MATTHEW CANTY", "CAMPAIGN CONSULTANTS", "", "$4,500.00"], ["03/19/2018", "JAY HANSEN", "", "MTG, TRS", "$4,416.15"], ["06/19/2018", "WINNER & MANDABACH CAMPAIGNS", "", "OFC, TRS", "$4,332.70"], ["01/10/2018", "PETE CONATY & ASSOCIATES", "CAMPAIGN CONSULTANTS", "", "$3,000.00"], ["04/17/2018", "PETE CONATY & ASSOCIATES", "CAMPAIGN CONSULTANTS", "", "$3,000.00"], ["05/30/2018", "PETE CONATY & ASSOCIATES", "CAMPAIGN CONSULTANTS", "", "$3,000.00"], ["03/19/2018", "PETE CONATY & ASSOCIATES", "CAMPAIGN CONSULTANTS", "", "$3,000.00"], ["06/19/2018", "PETE CONATY & ASSOCIATES", "CAMPAIGN CONSULTANTS", "", "$3,000.00"], ["02/21/2018", "PETE CONATY & ASSOCIATES", "CAMPAIGN CONSULTANTS", "", "$3,000.00"], ["05/30/2018", "JAY HANSEN", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$1,851.12"], ["06/19/2018", "JAY HANSEN", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$1,769.77"], ["05/30/2018", "ANDREW RUSSELL", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$1,134.20"], ["05/30/2018", "WINNER & MANDABACH CAMPAIGNS", "", "OFC, TRS", "$989.98"], ["01/10/2018", "BICKER, CASTILLO & FAIRBANKS", "OFFICE EXPENSES", "", "$980.50"], ["02/21/2018", "KIM MARQUARDT", "CAMPAIGN LITERATURE AND MAILINGS", "", "$975.00"], ["05/30/2018", "ALEXANDRA ROOKER", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$954.32"], ["05/30/2018", "BERKELEY RESEARCH GROUP, LLC", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$884.62"], ["04/17/2018", "ALEXANDRA ROOKER", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$827.25"], ["04/17/2018", "JAY HANSEN", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$804.99"], ["06/19/2018", "ANDREW RUSSELL", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$731.03"], ["03/19/2018", "ANDREW RUSSELL", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$681.93"], ["12/18/2017", "BICKER, CASTILLO & FAIRBANKS", "OFFICE EXPENSES", "", "$531.55"], ["02/21/2018", "KIM MARQUARDT", "CAMPAIGN LITERATURE AND MAILINGS", "", "$500.00"], ["03/19/2018", "KIM MARQUARDT", "CAMPAIGN LITERATURE AND MAILINGS", "", "$485.00"], ["06/19/2018", "BELL, MCANDREWS & HILTACHK, LLP", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$462.40"], ["06/19/2018", "KIM MARQUARDT", "CAMPAIGN LITERATURE AND MAILINGS", "", "$450.00"], ["02/22/2018", "ANDREW RUSSELL", "", "OFC, TRS", "$438.25"], ["04/17/2018", "ANDREW RUSSELL", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$408.93"], ["04/17/2018", "KIM MARQUARDT", "CAMPAIGN LITERATURE AND MAILINGS", "", "$400.00"], ["02/21/2018", "BICKER, CASTILLO & FAIRBANKS", "OFFICE EXPENSES", "", "$342.45"], ["05/30/2018", "TEAM AMVETS DEPARTMENT OF CALIFORNIA", "CAMPAIGN PARAPHERNALIA/MISCELLANEOUS", "", "$200.00"], ["06/19/2018", "ALEXANDRA ROOKER", "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", "", "$171.60"], ["12/18/2017", "WINNER & MANDABACH CAMPAIGNS", "OFFICE EXPENSES", "", "$95.42"], ["01/10/2018", "WINNER & MANDABACH CAMPAIGNS", "OFFICE EXPENSES", "", "$65.26"], ["11/30/2017", "WINNER & MANDABACH CAMPAIGNS", "OFFICE EXPENSES", "", "$15.32"]]}, "contributions_received": {"header": ["NAME OF CONTRIBUTOR", "PAYMENT TYPE", "CITY", "STATE", "ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION DATE", "FILED DATE", "TRANSACTION NUMBER"], "data": [["DAVITA", "MONETARY", "WASHINGTON", "DC", "20001", "1257183", "", "", "$339,000.00", "1/16/2018", "8/15/2018", "2241377 - INC55"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "MONETARY", "NEWTON", "KS", "67114", "", "", "", "$339,000.00", "1/16/2018", "8/15/2018", "2241377 - INC56"], ["DAVITA", "MONETARY", "WASHINGTON", "DC", "20001", "1257183", "", "", "$487,500.00", "3/27/2018", "8/15/2018", "2241377 - INC94"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "MONETARY", "NEWTON", "KS", "67114", "", "", "", "$350,000.00", "11/27/2017", "2/27/2018", "2210070 - INC1"], ["DAVITA", "MONETARY", "WASHINGTON", "DC", "20001", "1257183", "", "", "$350,000.00", "12/1/2017", "2/27/2018", "2210070 - INC9"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "MONETARY", "NEWTON", "KS", "67114", "", "", "", "$2,500,000.00", "5/29/2018", "7/31/2018", "2275436 - INC182"], ["DAVITA", "MONETARY", "WASHINGTON", "DC", "20001", "1257183", "", "", "$2,500,000.00", "6/1/2018", "7/31/2018", "2275436 - INC235"], ["AMERICAN RENAL MANAGEMENT LLC", "MONETARY", "BEVERLY", "MA", "01915", "", "", "", "$100,000.00", "6/11/2018", "7/31/2018", "2275436 - INC236"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "MONETARY", "NEWTON", "KS", "67114", "", "", "", "$487,500.00", "4/3/2018", "7/31/2018", "2275436 - INC95"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "NON-MONETARY", "NEWTON", "KS", "67114", "", "", "", "$567,966.00", "6/27/2018", "7/31/2018", "2275436 - NON265"], []]}, "late_and_5k_plus_contributions_received": {"header": ["NAME OF CONTRIBUTOR", "CITY", "STATE/ZIP", "ID NUMBER", "EMPLOYER", "OCCUPATION", "AMOUNT", "TRANSACTION TYPE", "TYPE", "TRANS. DATE", "FILED DATE", "TRANS #"], "data": [["FRESENIUS MEDICAL CARE NORTH AMERICA", "NEWTON", "KS / 67114", "", "", "", "       $5,000,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "07/30/2018", "07/31/2018", "2276046-INC334"], ["DAVITA", "WASHINGTON", "DC / 20001", "1257183", "", "", "       $5,000,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "07/25/2018", "07/26/2018", "2270239-INC331"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "NEWTON", "KS / 67114", "", "", "", "         $800,042.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "06/27/2018", "07/20/2018", "2267010-NON265"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "NEWTON", "KS / 67114", "", "", "", "         $487,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "04/03/2018", "07/20/2018", "2267010-INC95"], ["AMERICAN RENAL MANAGEMENT LLC", "BEVERLY", "MA / 01915", "", "", "", "         $100,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "06/11/2018", "07/20/2018", "2267010-INC236"], ["DAVITA", "WASHINGTON", "DC / 20001", "1257183", "", "", "       $2,500,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "06/01/2018", "07/20/2018", "2267010-INC235"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "NEWTON", "KS / 67114", "", "", "", "       $2,500,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "05/29/2018", "07/20/2018", "2267010-INC182"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "NEWTON", "KS / 67114", "", "", "", "         $567,966.00", "LATE CONTRIBUTION RECEIVED", "AMENDMENT #1", "06/27/2018", "07/27/2018", "2262235-NON265"], ["AMERICAN RENAL MANAGEMENT LLC", "BEVERLY", "MA / 01915", "", "", "", "         $100,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "06/11/2018", "06/11/2018", "2260608-INC236"], ["DAVITA", "WASHINGTON", "DC / 20001", "1257183", "", "", "       $2,500,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "06/01/2018", "06/01/2018", "2258666-INC235"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "NEWTON", "KS / 67114", "", "", "", "       $2,500,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "05/29/2018", "05/29/2018", "2256182-INC182"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "NEWTON", "KS / 67114", "", "", "", "         $487,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "04/03/2018", "04/04/2018", "2228227-INC95"], ["DAVITA", "WASHINGTON", "DC / 20001", "1257183", "", "", "         $487,500.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "03/27/2018", "03/28/2018", "2226017-INC94"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "NEWTON", "KS / 67114", "", "", "", "         $339,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/16/2018", "01/19/2018", "2203296-INC56"], ["DAVITA", "WASHINGTON", "DC / 20001", "", "", "", "         $339,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "01/16/2018", "01/19/2018", "2203296-INC55"], ["DAVITA", "WASHINGTON", "DC / 20001", "", "", "", "         $350,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "12/01/2017", "12/06/2017", "2197830-INC9"], ["FRESENIUS MEDICAL CARE NORTH AMERICA", "NEWTON", "KS / 67114", "", "", "", "         $350,000.00", "LATE CONTRIBUTION RECEIVED", "INITIAL", "11/27/2017", "12/06/2017", "2197830-INC1"], [], []]}}
+{
+    "timestamp": "2018-09-05T20:14:25.539223", 
+    "late_contributions_made": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [
+                "CALIFORNIA DEMOCRATIC PARTY", 
+                "SACRAMENTO", 
+                "CA / 95811", 
+                "741666", 
+                "", 
+                "", 
+                "           $7,000.00", 
+                "LATE CONTRIBUTION MADE", 
+                "INITIAL", 
+                "07/13/2018", 
+                "07/20/2018", 
+                "2267010-PDT197"
+            ], 
+            [
+                "CALIFORNIA REPUBLICAN PARTY", 
+                "SACRAMENTO", 
+                "CA / 95814", 
+                "810163", 
+                "", 
+                "", 
+                "          $10,000.00", 
+                "LATE CONTRIBUTION MADE", 
+                "INITIAL", 
+                "04/20/2018", 
+                "04/20/2018", 
+                "2233395-EXP153"
+            ], 
+            [
+                "CALIFORNIA DEMOCRATIC PARTY", 
+                "SACRAMENTO", 
+                "CA / 95811", 
+                "", 
+                "", 
+                "", 
+                "          $10,000.00", 
+                "LATE CONTRIBUTION MADE", 
+                "INITIAL", 
+                "01/25/2018", 
+                "01/25/2018", 
+                "2205511-EXP57"
+            ], 
+            [], 
+            []
+        ]
+    }, 
+    "contributions_made": {
+        "header": [
+            "DATE", 
+            "RECIPIENT", 
+            "CONTEST", 
+            "POSITION", 
+            "PAYMENT TYPE", 
+            "AMOUNT"
+        ], 
+        "data": []
+    }, 
+    "late_independent_expenditures": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [], 
+            []
+        ]
+    }, 
+    "expenditures_made": {
+        "header": [
+            "DATE", 
+            "PAYEE", 
+            "EXPENDITURE CODE", 
+            "DESCRIPTION", 
+            "AMOUNT"
+        ], 
+        "data": [
+            [
+                "04/04/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$700,000.00"
+            ], 
+            [
+                "04/04/2018", 
+                "TARGET ENTERPRISES, LLC", 
+                "T.V. OR CABLE AIRTIME AND PRODUCTION COSTS", 
+                "", 
+                "$223,600.00"
+            ], 
+            [
+                "05/30/2018", 
+                "BERKELEY RESEARCH GROUP, LLC", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$143,833.20"
+            ], 
+            [
+                "06/19/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$87,225.00"
+            ], 
+            [
+                "06/19/2018", 
+                "FAIRBANK MASLIN MAULLIN, METZ & ASSOCIATES, INC.", 
+                "POLLING AND SURVEY RESEARCH", 
+                "", 
+                "$79,750.00"
+            ], 
+            [
+                "12/18/2017", 
+                "FAIRBANK MASLIN MAULLIN, METZ & ASSOCIATES, INC.", 
+                "POLLING AND SURVEY RESEARCH", 
+                "", 
+                "$63,500.00"
+            ], 
+            [
+                "06/19/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$61,026.30"
+            ], 
+            [
+                "06/19/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$60,000.00"
+            ], 
+            [
+                "06/19/2018", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$60,000.00"
+            ], 
+            [
+                "04/30/2018", 
+                "AMPLIFIED STRATEGIES, INC.", 
+                "POLLING AND SURVEY RESEARCH", 
+                "", 
+                "$55,773.00"
+            ], 
+            [
+                "05/30/2018", 
+                "AMPLIFIED STRATEGIES, INC.", 
+                "POLLING AND SURVEY RESEARCH", 
+                "", 
+                "$54,222.00"
+            ], 
+            [
+                "05/30/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$52,500.00"
+            ], 
+            [
+                "05/30/2018", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$52,500.00"
+            ], 
+            [
+                "05/30/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$50,000.00"
+            ], 
+            [
+                "11/30/2017", 
+                "FAIRBANK MASLIN MAULLIN, METZ & ASSOCIATES, INC.", 
+                "POLLING AND SURVEY RESEARCH", 
+                "", 
+                "$46,175.00"
+            ], 
+            [
+                "05/30/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$45,161.02"
+            ], 
+            [
+                "01/10/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$45,000.00"
+            ], 
+            [
+                "04/17/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$45,000.00"
+            ], 
+            [
+                "01/10/2018", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$45,000.00"
+            ], 
+            [
+                "02/21/2018", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$45,000.00"
+            ], 
+            [
+                "03/19/2018", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$45,000.00"
+            ], 
+            [
+                "02/21/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$45,000.00"
+            ], 
+            [
+                "12/18/2017", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$45,000.00"
+            ], 
+            [
+                "12/18/2017", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$45,000.00"
+            ], 
+            [
+                "03/19/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$45,000.00"
+            ], 
+            [
+                "04/17/2018", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$45,000.00"
+            ], 
+            [
+                "04/17/2018", 
+                "METROPOLIS MEDIA GROUP, INC.", 
+                "T.V. OR CABLE AIRTIME AND PRODUCTION COSTS", 
+                "", 
+                "$42,647.00"
+            ], 
+            [
+                "04/30/2018", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "T.V. OR CABLE AIRTIME AND PRODUCTION COSTS", 
+                "", 
+                "$37,570.00"
+            ], 
+            [
+                "06/19/2018", 
+                "BERKELEY RESEARCH GROUP, LLC", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$36,930.75"
+            ], 
+            [
+                "12/18/2017", 
+                "FORWARD OBSERVER, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$25,000.00"
+            ], 
+            [
+                "04/17/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$22,937.76"
+            ], 
+            [
+                "11/30/2017", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$22,500.00"
+            ], 
+            [
+                "12/04/2017", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$22,500.00"
+            ], 
+            [
+                "05/30/2018", 
+                "RESEARCHED MEDIA AND MESSAGING, LLC", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$20,000.00"
+            ], 
+            [
+                "06/19/2018", 
+                "FORWARD OBSERVER, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$20,000.00"
+            ], 
+            [
+                "04/17/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "", 
+                "CVC, OFC, WEB, TRS", 
+                "$17,847.12"
+            ], 
+            [
+                "02/21/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$17,668.13"
+            ], 
+            [
+                "05/30/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$15,000.00"
+            ], 
+            [
+                "06/19/2018", 
+                "CENTAUR NORTH STRATEGIES", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$15,000.00"
+            ], 
+            [
+                "06/19/2018", 
+                "PELOTE STRATEGIC CONSULTING & ADVOCACY", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$15,000.00"
+            ], 
+            [
+                "05/30/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$15,000.00"
+            ], 
+            [
+                "06/22/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$13,850.00"
+            ], 
+            [
+                "03/19/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$13,385.29"
+            ], 
+            [
+                "05/30/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "", 
+                "OFC, LIT, POS, TRS, WEB", 
+                "$13,132.12"
+            ], 
+            [
+                "05/30/2018", 
+                "PELOTE STRATEGIC CONSULTING & ADVOCACY", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$12,500.00"
+            ], 
+            [
+                "12/18/2017", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$12,290.40"
+            ], 
+            [
+                "04/17/2018", 
+                "JAY HANSEN", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$12,000.00"
+            ], 
+            [
+                "02/21/2018", 
+                "JAY HANSEN", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$12,000.00"
+            ], 
+            [
+                "05/30/2018", 
+                "JAY HANSEN", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$12,000.00"
+            ], 
+            [
+                "01/10/2018", 
+                "JAY HANSEN", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$12,000.00"
+            ], 
+            [
+                "03/19/2018", 
+                "JAY HANSEN", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$12,000.00"
+            ], 
+            [
+                "05/30/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$10,200.00"
+            ], 
+            [
+                "04/17/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$10,200.00"
+            ], 
+            [
+                "06/19/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$10,200.00"
+            ], 
+            [
+                "03/19/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$10,190.32"
+            ], 
+            [
+                "02/21/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$10,150.00"
+            ], 
+            [
+                "06/19/2018", 
+                "ALEXANDRA ROOKER", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "05/30/2018", 
+                "AC PUBLIC AFFAIRS, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "05/30/2018", 
+                "ALEXANDRA ROOKER", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "06/19/2018", 
+                "AC PUBLIC AFFAIRS, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "01/25/2018", 
+                "CALIFORNIA DEMOCRATIC PARTY", 
+                "MEETINGS AND APPEARANCES", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "04/20/2018", 
+                "CALIFORNIA REPUBLICAN PARTY", 
+                "MEETINGS AND APPEARANCES", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "02/21/2018", 
+                "ALEXANDRA ROOKER", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "03/19/2018", 
+                "ALEXANDRA ROOKER", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "04/17/2018", 
+                "AC PUBLIC AFFAIRS, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "04/17/2018", 
+                "ALEXANDRA ROOKER", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "05/30/2018", 
+                "FORWARD OBSERVER, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "01/10/2018", 
+                "ALEXANDRA ROOKER", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "04/04/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "06/19/2018", 
+                "CERRELL ASSOCIATES, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$10,000.00"
+            ], 
+            [
+                "03/19/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "", 
+                "OFC, WEB, TRS", 
+                "$9,190.44"
+            ], 
+            [
+                "05/30/2018", 
+                "BERKELEY RESEARCH GROUP, LLC", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$9,190.13"
+            ], 
+            [
+                "06/19/2018", 
+                "JAY HANSEN", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$9,000.00"
+            ], 
+            [
+                "03/19/2018", 
+                "FORWARD OBSERVER, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$9,000.00"
+            ], 
+            [
+                "02/21/2018", 
+                "FORWARD OBSERVER, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$8,000.00"
+            ], 
+            [
+                "01/10/2018", 
+                "FORWARD OBSERVER, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$8,000.00"
+            ], 
+            [
+                "06/19/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "", 
+                "OFC, TRS, WEB", 
+                "$7,551.88"
+            ], 
+            [
+                "01/10/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$7,538.31"
+            ], 
+            [
+                "04/30/2018", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$6,630.00"
+            ], 
+            [
+                "04/17/2018", 
+                "BERKELEY RESEARCH GROUP, LLC", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$6,302.37"
+            ], 
+            [
+                "12/18/2017", 
+                "JAY HANSEN", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$6,000.00"
+            ], 
+            [
+                "06/19/2018", 
+                "BERKELEY RESEARCH GROUP, LLC", 
+                "", 
+                "OFC, TRS", 
+                "$5,128.24"
+            ], 
+            [
+                "11/30/2017", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$5,069.40"
+            ], 
+            [
+                "02/22/2018", 
+                "ANDREW RUSSELL", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "05/30/2018", 
+                "ANDREW RUSSELL", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "04/17/2018", 
+                "ANDREW RUSSELL", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "03/19/2018", 
+                "AC PUBLIC AFFAIRS, INC.", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "03/19/2018", 
+                "ANDREW RUSSELL", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "06/19/2018", 
+                "ANDREW RUSSELL", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "01/10/2018", 
+                "ANDREW RUSSELL", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "02/21/2018", 
+                "BASK DIGITAL MEDIA, LLC", 
+                "INFORMATION TECHNOLOGY COSTS (INTERNET, E-MAIL)", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "04/17/2018", 
+                "PELOTE STRATEGIC CONSULTING & ADVOCACY", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$5,000.00"
+            ], 
+            [
+                "02/21/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "", 
+                "LIT, OFC, MTG, WEB", 
+                "$4,754.79"
+            ], 
+            [
+                "04/17/2018", 
+                "LITTLER MENDELSON P.C.", 
+                "PROFESSIONAL SERVICES (LEGAL, ACCOUNTING)", 
+                "", 
+                "$4,613.75"
+            ], 
+            [
+                "06/19/2018", 
+                "TANNER KELLY", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$4,500.00"
+            ], 
+            [
+                "06/19/2018", 
+                "MATTHEW CANTY", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$4,500.00"
+            ], 
+            [
+                "03/19/2018", 
+                "JAY HANSEN", 
+                "", 
+                "MTG, TRS", 
+                "$4,416.15"
+            ], 
+            [
+                "06/19/2018", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "", 
+                "OFC, TRS", 
+                "$4,332.70"
+            ], 
+            [
+                "01/10/2018", 
+                "PETE CONATY & ASSOCIATES", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$3,000.00"
+            ], 
+            [
+                "04/17/2018", 
+                "PETE CONATY & ASSOCIATES", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$3,000.00"
+            ], 
+            [
+                "05/30/2018", 
+                "PETE CONATY & ASSOCIATES", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$3,000.00"
+            ], 
+            [
+                "03/19/2018", 
+                "PETE CONATY & ASSOCIATES", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$3,000.00"
+            ], 
+            [
+                "06/19/2018", 
+                "PETE CONATY & ASSOCIATES", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$3,000.00"
+            ], 
+            [
+                "02/21/2018", 
+                "PETE CONATY & ASSOCIATES", 
+                "CAMPAIGN CONSULTANTS", 
+                "", 
+                "$3,000.00"
+            ], 
+            [
+                "05/30/2018", 
+                "JAY HANSEN", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$1,851.12"
+            ], 
+            [
+                "06/19/2018", 
+                "JAY HANSEN", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$1,769.77"
+            ], 
+            [
+                "05/30/2018", 
+                "ANDREW RUSSELL", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$1,134.20"
+            ], 
+            [
+                "05/30/2018", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "", 
+                "OFC, TRS", 
+                "$989.98"
+            ], 
+            [
+                "01/10/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$980.50"
+            ], 
+            [
+                "02/21/2018", 
+                "KIM MARQUARDT", 
+                "CAMPAIGN LITERATURE AND MAILINGS", 
+                "", 
+                "$975.00"
+            ], 
+            [
+                "05/30/2018", 
+                "ALEXANDRA ROOKER", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$954.32"
+            ], 
+            [
+                "05/30/2018", 
+                "BERKELEY RESEARCH GROUP, LLC", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$884.62"
+            ], 
+            [
+                "04/17/2018", 
+                "ALEXANDRA ROOKER", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$827.25"
+            ], 
+            [
+                "04/17/2018", 
+                "JAY HANSEN", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$804.99"
+            ], 
+            [
+                "06/19/2018", 
+                "ANDREW RUSSELL", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$731.03"
+            ], 
+            [
+                "03/19/2018", 
+                "ANDREW RUSSELL", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$681.93"
+            ], 
+            [
+                "12/18/2017", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$531.55"
+            ], 
+            [
+                "02/21/2018", 
+                "KIM MARQUARDT", 
+                "CAMPAIGN LITERATURE AND MAILINGS", 
+                "", 
+                "$500.00"
+            ], 
+            [
+                "03/19/2018", 
+                "KIM MARQUARDT", 
+                "CAMPAIGN LITERATURE AND MAILINGS", 
+                "", 
+                "$485.00"
+            ], 
+            [
+                "06/19/2018", 
+                "BELL, MCANDREWS & HILTACHK, LLP", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$462.40"
+            ], 
+            [
+                "06/19/2018", 
+                "KIM MARQUARDT", 
+                "CAMPAIGN LITERATURE AND MAILINGS", 
+                "", 
+                "$450.00"
+            ], 
+            [
+                "02/22/2018", 
+                "ANDREW RUSSELL", 
+                "", 
+                "OFC, TRS", 
+                "$438.25"
+            ], 
+            [
+                "04/17/2018", 
+                "ANDREW RUSSELL", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$408.93"
+            ], 
+            [
+                "04/17/2018", 
+                "KIM MARQUARDT", 
+                "CAMPAIGN LITERATURE AND MAILINGS", 
+                "", 
+                "$400.00"
+            ], 
+            [
+                "02/21/2018", 
+                "BICKER, CASTILLO & FAIRBANKS", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$342.45"
+            ], 
+            [
+                "05/30/2018", 
+                "TEAM AMVETS DEPARTMENT OF CALIFORNIA", 
+                "CAMPAIGN PARAPHERNALIA/MISCELLANEOUS", 
+                "", 
+                "$200.00"
+            ], 
+            [
+                "06/19/2018", 
+                "ALEXANDRA ROOKER", 
+                "STAFF/SPOUSE TRAVEL, LODGING AND MEALS", 
+                "", 
+                "$171.60"
+            ], 
+            [
+                "12/18/2017", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$95.42"
+            ], 
+            [
+                "01/10/2018", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$65.26"
+            ], 
+            [
+                "11/30/2017", 
+                "WINNER & MANDABACH CAMPAIGNS", 
+                "OFFICE EXPENSES", 
+                "", 
+                "$15.32"
+            ]
+        ]
+    }, 
+    "contributions_received": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "PAYMENT TYPE", 
+            "CITY", 
+            "STATE", 
+            "ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION DATE", 
+            "FILED DATE", 
+            "TRANSACTION NUMBER"
+        ], 
+        "data": [
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "MONETARY", 
+                "NEWTON", 
+                "KS", 
+                "67114", 
+                "", 
+                "", 
+                "", 
+                "$350,000.00", 
+                "11/27/2017", 
+                "2/27/2018", 
+                "2210070 - INC1"
+            ], 
+            [
+                "DAVITA", 
+                "MONETARY", 
+                "WASHINGTON", 
+                "DC", 
+                "20001", 
+                "1257183", 
+                "", 
+                "", 
+                "$350,000.00", 
+                "12/1/2017", 
+                "2/27/2018", 
+                "2210070 - INC9"
+            ], 
+            [
+                "DAVITA", 
+                "MONETARY", 
+                "WASHINGTON", 
+                "DC", 
+                "20001", 
+                "1257183", 
+                "", 
+                "", 
+                "$339,000.00", 
+                "1/16/2018", 
+                "8/15/2018", 
+                "2241377 - INC55"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "MONETARY", 
+                "NEWTON", 
+                "KS", 
+                "67114", 
+                "", 
+                "", 
+                "", 
+                "$339,000.00", 
+                "1/16/2018", 
+                "8/15/2018", 
+                "2241377 - INC56"
+            ], 
+            [
+                "DAVITA", 
+                "MONETARY", 
+                "WASHINGTON", 
+                "DC", 
+                "20001", 
+                "1257183", 
+                "", 
+                "", 
+                "$487,500.00", 
+                "3/27/2018", 
+                "8/15/2018", 
+                "2241377 - INC94"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "MONETARY", 
+                "NEWTON", 
+                "KS", 
+                "67114", 
+                "", 
+                "", 
+                "", 
+                "$2,500,000.00", 
+                "5/29/2018", 
+                "7/31/2018", 
+                "2275436 - INC182"
+            ], 
+            [
+                "DAVITA", 
+                "MONETARY", 
+                "WASHINGTON", 
+                "DC", 
+                "20001", 
+                "1257183", 
+                "", 
+                "", 
+                "$2,500,000.00", 
+                "6/1/2018", 
+                "7/31/2018", 
+                "2275436 - INC235"
+            ], 
+            [
+                "AMERICAN RENAL MANAGEMENT LLC", 
+                "MONETARY", 
+                "BEVERLY", 
+                "MA", 
+                "01915", 
+                "", 
+                "", 
+                "", 
+                "$100,000.00", 
+                "6/11/2018", 
+                "7/31/2018", 
+                "2275436 - INC236"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "MONETARY", 
+                "NEWTON", 
+                "KS", 
+                "67114", 
+                "", 
+                "", 
+                "", 
+                "$487,500.00", 
+                "4/3/2018", 
+                "7/31/2018", 
+                "2275436 - INC95"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "NON-MONETARY", 
+                "NEWTON", 
+                "KS", 
+                "67114", 
+                "", 
+                "", 
+                "", 
+                "$567,966.00", 
+                "6/27/2018", 
+                "7/31/2018", 
+                "2275436 - NON265"
+            ], 
+            []
+        ]
+    }, 
+    "late_and_5k_plus_contributions_received": {
+        "header": [
+            "NAME OF CONTRIBUTOR", 
+            "CITY", 
+            "STATE/ZIP", 
+            "ID NUMBER", 
+            "EMPLOYER", 
+            "OCCUPATION", 
+            "AMOUNT", 
+            "TRANSACTION TYPE", 
+            "TYPE", 
+            "TRANS. DATE", 
+            "FILED DATE", 
+            "TRANS #"
+        ], 
+        "data": [
+            [
+                "DIALYSIS CLINIC, INC.", 
+                "NASHVILLE", 
+                "TN / 37203", 
+                "", 
+                "", 
+                "", 
+                "         $485,050.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "09/04/2018", 
+                "09/04/2018", 
+                "2288747-INC373"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "NEWTON", 
+                "KS / 67114", 
+                "", 
+                "", 
+                "", 
+                "       $5,906,160.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "09/04/2018", 
+                "09/04/2018", 
+                "2288747-INC372"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "NEWTON", 
+                "KS / 67114", 
+                "", 
+                "", 
+                "", 
+                "          $21,380.95", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "08/31/2018", 
+                "08/31/2018", 
+                "2288447-NON370"
+            ], 
+            [
+                "DAVITA", 
+                "WASHINGTON", 
+                "DC / 20001", 
+                "1257183", 
+                "", 
+                "", 
+                "      $19,311,186.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "08/31/2018", 
+                "08/31/2018", 
+                "2288447-INC369"
+            ], 
+            [
+                "SATELLITE HEALTHCARE, INC.", 
+                "SAN JOSE", 
+                "CA / 95128", 
+                "", 
+                "", 
+                "", 
+                "         $500,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "08/30/2018", 
+                "08/31/2018", 
+                "2288447-INC367"
+            ], 
+            [
+                "US RENAL CARE, INC.", 
+                "PLANO", 
+                "TX / 75024", 
+                "", 
+                "", 
+                "", 
+                "       $2,954,397.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "08/24/2018", 
+                "08/24/2018", 
+                "2286312-INC366"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "NEWTON", 
+                "KS / 67114", 
+                "", 
+                "", 
+                "", 
+                "       $5,000,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "07/30/2018", 
+                "07/31/2018", 
+                "2276046-INC334"
+            ], 
+            [
+                "DAVITA", 
+                "WASHINGTON", 
+                "DC / 20001", 
+                "1257183", 
+                "", 
+                "", 
+                "       $5,000,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "07/25/2018", 
+                "07/26/2018", 
+                "2270239-INC331"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "NEWTON", 
+                "KS / 67114", 
+                "", 
+                "", 
+                "", 
+                "         $800,042.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "06/27/2018", 
+                "07/20/2018", 
+                "2267010-NON265"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "NEWTON", 
+                "KS / 67114", 
+                "", 
+                "", 
+                "", 
+                "         $487,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "04/03/2018", 
+                "07/20/2018", 
+                "2267010-INC95"
+            ], 
+            [
+                "AMERICAN RENAL MANAGEMENT LLC", 
+                "BEVERLY", 
+                "MA / 01915", 
+                "", 
+                "", 
+                "", 
+                "         $100,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "06/11/2018", 
+                "07/20/2018", 
+                "2267010-INC236"
+            ], 
+            [
+                "DAVITA", 
+                "WASHINGTON", 
+                "DC / 20001", 
+                "1257183", 
+                "", 
+                "", 
+                "       $2,500,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "06/01/2018", 
+                "07/20/2018", 
+                "2267010-INC235"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "NEWTON", 
+                "KS / 67114", 
+                "", 
+                "", 
+                "", 
+                "       $2,500,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "05/29/2018", 
+                "07/20/2018", 
+                "2267010-INC182"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "NEWTON", 
+                "KS / 67114", 
+                "", 
+                "", 
+                "", 
+                "         $567,966.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "AMENDMENT #1", 
+                "06/27/2018", 
+                "07/27/2018", 
+                "2262235-NON265"
+            ], 
+            [
+                "AMERICAN RENAL MANAGEMENT LLC", 
+                "BEVERLY", 
+                "MA / 01915", 
+                "", 
+                "", 
+                "", 
+                "         $100,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "06/11/2018", 
+                "06/11/2018", 
+                "2260608-INC236"
+            ], 
+            [
+                "DAVITA", 
+                "WASHINGTON", 
+                "DC / 20001", 
+                "1257183", 
+                "", 
+                "", 
+                "       $2,500,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "06/01/2018", 
+                "06/01/2018", 
+                "2258666-INC235"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "NEWTON", 
+                "KS / 67114", 
+                "", 
+                "", 
+                "", 
+                "       $2,500,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "05/29/2018", 
+                "05/29/2018", 
+                "2256182-INC182"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "NEWTON", 
+                "KS / 67114", 
+                "", 
+                "", 
+                "", 
+                "         $487,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "04/03/2018", 
+                "04/04/2018", 
+                "2228227-INC95"
+            ], 
+            [
+                "DAVITA", 
+                "WASHINGTON", 
+                "DC / 20001", 
+                "1257183", 
+                "", 
+                "", 
+                "         $487,500.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "03/27/2018", 
+                "03/28/2018", 
+                "2226017-INC94"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "NEWTON", 
+                "KS / 67114", 
+                "", 
+                "", 
+                "", 
+                "         $339,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/16/2018", 
+                "01/19/2018", 
+                "2203296-INC56"
+            ], 
+            [
+                "DAVITA", 
+                "WASHINGTON", 
+                "DC / 20001", 
+                "", 
+                "", 
+                "", 
+                "         $339,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "01/16/2018", 
+                "01/19/2018", 
+                "2203296-INC55"
+            ], 
+            [
+                "DAVITA", 
+                "WASHINGTON", 
+                "DC / 20001", 
+                "", 
+                "", 
+                "", 
+                "         $350,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "12/01/2017", 
+                "12/06/2017", 
+                "2197830-INC9"
+            ], 
+            [
+                "FRESENIUS MEDICAL CARE NORTH AMERICA", 
+                "NEWTON", 
+                "KS / 67114", 
+                "", 
+                "", 
+                "", 
+                "         $350,000.00", 
+                "LATE CONTRIBUTION RECEIVED", 
+                "INITIAL", 
+                "11/27/2017", 
+                "12/06/2017", 
+                "2197830-INC1"
+            ], 
+            [], 
+            []
+        ]
+    }
+}
