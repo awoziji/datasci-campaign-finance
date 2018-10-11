@@ -99,7 +99,8 @@ def main():
 
     # Define the list of tasks that are parse tasks
     parse_tasks = [
-        'parse.load_datasf_campaign_finance.py',
+        'parse.load_datasf_campaign_finance_proof_of_concept.py',
+        # 'parse.load_datasf_campaign_finance.py',
         # 'parse.load_maplight_california.py',
         # 'parse.clean_casos_california_statewide_election_results.py',
         # 'parse.load_casos_california_statewide_election_results.py',
