@@ -7,8 +7,10 @@ $ brew install pyenv-virtualenv
 
 Add the following lines to your `~/.bash_profile` file
 ```
-eval "$(pyenv init -)"
-eval "$(pyenv virtualenv-init -)"
+if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi                                       
+ if which pyenv-virtualenv-init > /dev/null; then
+     eval "$(pyenv virtualenv-init -)";
+fi
 ```
 
 Install python
