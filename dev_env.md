@@ -15,7 +15,7 @@ fi
 
 Install python
 ```
-$ pyenv install 3.6
+$ pyenv install 3.6.5
 ```
 
 Create a new virtual environment and activate
