@@ -1,4 +1,4 @@
-name: datasci-congressional-data
+name: datasci-campaign-finance
 channels:
 - conda-forge
 - defaults
@@ -17,5 +17,5 @@ dependencies:
     - pandas==0.22.0
     - plotnine==0.3.0
     - django-cors-headers==2.1.0
-prefix: /home/vla/anaconda3/envs/datasci-congressional-data
+prefix: /home/vla/anaconda3/envs/datasci-campaign-finance
 
