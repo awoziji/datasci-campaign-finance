@@ -77,8 +77,8 @@ If you have a Windows computer and are using Bash on Ubuntu on Windows, you may 
 Another common issue with using Jupyter and Anaconda Python environments, is that the Jupyter Kernel may not be set to the appropriate environment. This is discussed in [this Stack Overflow post](https://stackoverflow.com/questions/39604271/conda-environments-not-showing-up-in-jupyter-notebook) and the [official docs](http://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments). To address this issue, you will need to run:
 
 ```
-$ source activate datasci-congressional-data
-$ python -m ipykernel install --user --name datasci-congressional-data --display-name "Python (datasci-congressional-data)"
+$ source activate datasci-campaign-finance
+$ python -m ipykernel install --user --name datasci-campaign-finance --display-name "Python (datasci-campaign-finance)"
 ```
 
 Then in your Jupyter notebook, you will need to make sure you set your Kernel to the "Python (datasci-congressional-data)". If you have trouble with this, please ping the Slack Channel #datasci-congressdata and/or talk to a project lead.
@@ -86,7 +86,7 @@ Then in your Jupyter notebook, you will need to make sure you set your Kernel to
 Note, if you ever need to remove a kernel (which you should not generally have to do) you can run:
 
 ```
-sudo jupyter kernelspec uninstall datasci-congressional-data
+sudo jupyter kernelspec uninstall datasci-campaign-finance
 ```
 
 For example, if you were to leave the project (hopefully not!!) and don't want unused kernels lying around on your machine you can run the above to remove it.
